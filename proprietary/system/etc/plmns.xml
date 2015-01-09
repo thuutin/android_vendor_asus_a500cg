@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2013 Capital Alliance Software LTD (Pekall)
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<plmns>
+    <plmn locale="cn" mc="46000" name="中国移动"/>
+    <plmn locale="cn" mc="46002" name="中国移动"/>
+    <plmn locale="cn" mc="46001" name="中国联通"/>
+    <plmn locale="cn" mc="61202" name="A-Cell"/>
+    <plmn locale="cn" mc="310050" name="ACS Wireless"/>
+    <plmn locale="cn" mc="52001" name="Advanced Info Service PLC (AIS GSM)"/>
+    <plmn locale="cn" mc="310850" name="Aeris Communications"/>
+    <plmn locale="cn" mc="61905" name="Africell"/>
+    <plmn locale="cn" mc="310640" name="Airadigm Communications (Einstein Wireless)"/>
+    <plmn locale="cn" mc="21401" name="Airtel (Vodafone)"/>
+    <plmn locale="cn" mc="21406" name="Airtel (Vodafone)"/>
+    <plmn locale="cn" mc="21409" name="Airtel (Vodafone)"/>
+    <plmn locale="cn" mc="24414" name="Alands Mobiltelefon AB"/>
+    <plmn locale="cn" mc="74810" name="AM Wireless (Claro)"/>
+    <plmn locale="cn" mc="72424" name="Amazonia Celular"/>
+    <plmn locale="cn" mc="27601" name="AMC Mobile"/>
+    <plmn locale="cn" mc="71610" name="America Movil Peru S.A.C (CLARO PERU)"/>
+    <plmn locale="cn" mc="310630" name="Amerilink PCS CHOICE / Texas-10LLC"/>
+    <plmn locale="cn" mc="722310" name="AMX Argentina (Claro)"/>
+    <plmn locale="cn" mc="722320" name="AMX Argentina (Claro)"/>
+    <plmn locale="cn" mc="722330" name="AMX Argentina (Claro)"/>
+    <plmn locale="cn" mc="74801" name="ANTEL"/>
+    <plmn locale="cn" mc="34430" name="APUA"/>
+    <plmn locale="cn" mc="41240" name="Areba"/>
+    <plmn locale="cn" mc="28010" name="Areeba (Scancom)"/>
+    <plmn locale="cn" mc="28603" name="Aria"/>
+    <plmn locale="cn" mc="28301" name="ArmenTel"/>
+    <plmn locale="cn" mc="24801" name="AS EMT"/>
+    <plmn locale="cn" mc="45703" name="Asia Telecommunication (LAT)"/>
+    <plmn locale="cn" mc="41805" name="AsiaCell"/>
+    <plmn locale="cn" mc="25506" name="Astelit"/>
+    <plmn locale="cn" mc="310380" name="ATampersandT Mobility (Formerly ATampersandT Wireless Blue)"/>
+    <plmn locale="cn" mc="310560" name="ATampersandT Mobility (Formerly Cellular One / Dobson)"/>
+    <plmn locale="cn" mc="310150" name="ATampersandT Mobility (Formerly Cingular BellSouth)"/>
+    <plmn locale="cn" mc="310410" name="ATampersandT Mobility (Formerly Cingular Genesis)"/>
+    <plmn locale="cn" mc="310170" name="ATampersandT Mobility (Formerly Cingular Pacific)"/>
+    <plmn locale="cn" mc="41820" name="Atheer Telecom"/>
+    <plmn locale="cn" mc="60301" name="ATM Mobilis"/>
+    <plmn locale="cn" mc="28604" name="Aycell"/>
+    <plmn locale="cn" mc="40001" name="Azercell"/>
+    <plmn locale="cn" mc="40004" name="Azerfon"/>
+    <plmn locale="cn" mc="52802" name="B-Mobile"/>
+    <plmn locale="cn" mc="43604" name="Babilon Mobile"/>
+    <plmn locale="cn" mc="364390" name="Bahamas Telecommunications Company Ltd"/>
+    <plmn locale="cn" mc="40002" name="Bakcell"/>
+    <plmn locale="cn" mc="42601" name="Batelco"/>
+    <plmn locale="cn" mc="43801" name="BCTI"/>
+    <plmn locale="cn" mc="40101" name="Beeline (Kar-Tel Ltd)"/>
+    <plmn locale="cn" mc="25099" name="Beeline GSM 900/1800_ RUSSIJA"/>
+    <plmn locale="cn" mc="25704" name="Belarusian Telecommunications Network CJSC"/>
+    <plmn locale="cn" mc="20601" name="Belgacom Mobile (Proximus)"/>
+    <plmn locale="cn" mc="70267" name="Belize Telecommunications Ltd."/>
+    <plmn locale="cn" mc="302064" name="Bell Mobility - Rogers Wireless CDMA"/>
+    <plmn locale="cn" mc="302610" name="Bell Mobility - Rogers Wireless CDMA"/>
+    <plmn locale="cn" mc="21890" name="BH Telecom (PTT BiH"/>
+    <plmn locale="cn" mc="41305" name="Bharti Airtel Lanka (Pvt) Ltd"/>
+    <plmn locale="cn" mc="43705" name="BiMoCom (Megacom)"/>
+    <plmn locale="cn" mc="24705" name="Bite GSM"/>
+    <plmn locale="cn" mc="24602" name="Bite GSM UAB"/>
+    <plmn locale="cn" mc="311440" name="Bluegrass Cellular"/>
+    <plmn locale="cn" mc="20820" name="Bouygues Telecom"/>
+    <plmn locale="cn" mc="20821" name="Bouygues Telecom"/>
+    <plmn locale="cn" mc="20888" name="Bouygues Telecom"/>
+    <plmn locale="cn" mc="72416" name="Brazil Telecom"/>
+    <plmn locale="cn" mc="45501" name="C.T.M. (TELEMOVEL+ GSM900-Macau)"/>
+    <plmn locale="cn" mc="365840" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="342600" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="346140" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="366110" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="352110" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="71401" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="356110" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="358110" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="63301" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="376350" name="Cable ampersand Wireless"/>
+    <plmn locale="cn" mc="33820" name="Cable ampersand Wireless Jamaice"/>
+    <plmn locale="cn" mc="348170" name="Cable and Wireless"/>
+    <plmn locale="cn" mc="23407" name="Cable and Wireless UK"/>
+    <plmn locale="cn" mc="45601" name="CamGSM (MobiTel)"/>
+    <plmn locale="cn" mc="45618" name="Camshin (Shinawatra) DCS 1800"/>
+    <plmn locale="cn" mc="310830" name="Caprock Cellular"/>
+    <plmn locale="cn" mc="45602" name="Casacom (Samart) GSM 900"/>
+    <plmn locale="cn" mc="61807" name="Celcom"/>
+    <plmn locale="cn" mc="50219" name="Celcom"/>
+    <plmn locale="cn" mc="311130" name="Cell One (Amarillo)"/>
+    <plmn locale="cn" mc="65507" name="Cell-C"/>
+    <plmn locale="cn" mc="42502" name="Cellcom"/>
+    <plmn locale="cn" mc="61701" name="Cellplus"/>
+    <plmn locale="cn" mc="41303" name="Celltel(Tigo)"/>
+    <plmn locale="cn" mc="310320" name="Cellular One"/>
+    <plmn locale="cn" mc="310820" name="Cellular One (South Canaan Cellular"/>
+    <plmn locale="cn" mc="311190" name="Cellular Properties"/>
+    <plmn locale="cn" mc="311230" name="Cellular South"/>
+    <plmn locale="cn" mc="62201" name="Celtel"/>
+    <plmn locale="cn" mc="63002" name="Celtel"/>
+    <plmn locale="cn" mc="62803" name="Celtel"/>
+    <plmn locale="cn" mc="61401" name="Celtel"/>
+    <plmn locale="cn" mc="61901" name="Celtel"/>
+    <plmn locale="cn" mc="65010" name="CelTel Ltd"/>
+    <plmn locale="cn" mc="62120" name="Celtel Nigeria (Vmobile)"/>
+    <plmn locale="cn" mc="64005" name="Celtel Tanzania Ltd"/>
+    <plmn locale="cn" mc="64101" name="Celtel Uganda Limited (Zain Uganda)"/>
+    <plmn locale="cn" mc="64501" name="Celtel Zambia Ltd (Zain)"/>
+    <plmn locale="cn" mc="310030" name="Centennial Communications"/>
+    <plmn locale="cn" mc="33030" name="Centennial Operations Corp."/>
+    <plmn locale="cn" mc="311010" name="Chariton Valley Communications"/>
+    <plmn locale="cn" mc="311120" name="Choice Phone"/>
+    <plmn locale="cn" mc="46611" name="Chung Hwa Telecom LDM"/>
+    <plmn locale="cn" mc="310420" name="Cincinnati Bell Wireless"/>
+    <plmn locale="cn" mc="72405" name="Claro"/>
+    <plmn locale="cn" mc="70801" name="Claro"/>
+    <plmn locale="cn" mc="74402" name="Claro (Hutchison Telecom)"/>
+    <plmn locale="cn" mc="73003" name="Claro Chile"/>
+    <plmn locale="cn" mc="23418" name="Cloud 9"/>
+    <plmn locale="cn" mc="311620" name="Coleman County Telecom"/>
+    <plmn locale="cn" mc="70402" name="Comcel"/>
+    <plmn locale="cn" mc="61204" name="Comium"/>
+    <plmn locale="cn" mc="61904" name="Comium"/>
+    <plmn locale="cn" mc="61804" name="Comium Liberia Inc"/>
+    <plmn locale="cn" mc="311040" name="Commnet Wireless"/>
+    <plmn locale="cn" mc="65401" name="Comores Telecom"/>
+    <plmn locale="cn" mc="24007" name="Comviq (Tele2)"/>
+    <plmn locale="cn" mc="310040" name="Concho Cellular"/>
+    <plmn locale="cn" mc="74001" name="Conecel (Porta)"/>
+    <plmn locale="cn" mc="23205" name="Connect (One)"/>
+    <plmn locale="cn" mc="73402" name="Corporacion Digitel C.A. (DIGITEL)"/>
+    <plmn locale="cn" mc="310080" name="Corr Wireless Communications"/>
+    <plmn locale="cn" mc="43405" name="Coscom"/>
+    <plmn locale="cn" mc="28405" name="Cosmo Bulgaria Mobile EAD (GloBul)"/>
+    <plmn locale="cn" mc="29402" name="Cosmofon"/>
+    <plmn locale="cn" mc="22603" name="Cosmorom (Cosmote Romanian MT S.A.)"/>
+    <plmn locale="cn" mc="20201" name="Cosmote"/>
+    <plmn locale="cn" mc="310016" name="Cricket Communications"/>
+    <plmn locale="cn" mc="70601" name="CTE Telecom Personal SA de CV"/>
+    <plmn locale="cn" mc="51518" name="CURE"/>
+    <plmn locale="cn" mc="62501" name="CV Movel"/>
+    <plmn locale="cn" mc="28001" name="CYTA (Vodafone)"/>
+    <plmn locale="cn" mc="26201" name="D1 (T-Mobile)"/>
+    <plmn locale="cn" mc="26202" name="D2 (Vodafone)"/>
+    <plmn locale="cn" mc="26204" name="D2 (Vodafone)"/>
+    <plmn locale="cn" mc="26209" name="D2 (Vodafone)"/>
+    <plmn locale="cn" mc="47201" name="Dhiraagu"/>
+    <plmn locale="cn" mc="41302" name="Dialog (MTN)"/>
+    <plmn locale="cn" mc="50216" name="Digi"/>
+    <plmn locale="cn" mc="54202" name="Digicel"/>
+    <plmn locale="cn" mc="34020" name="Digicel"/>
+    <plmn locale="cn" mc="35230" name="Digicel"/>
+    <plmn locale="cn" mc="36269" name="Digicel"/>
+    <plmn locale="cn" mc="54901" name="Digicel"/>
+    <plmn locale="cn" mc="74603" name="Digicel"/>
+    <plmn locale="cn" mc="37413" name="Digicel"/>
+    <plmn locale="cn" mc="374130" name="Digicel"/>
+    <plmn locale="cn" mc="54105" name="Digicel"/>
+    <plmn locale="cn" mc="71404" name="Digicel (Panama) S.A."/>
+    <plmn locale="cn" mc="53703" name="Digicel (PNG) Limited"/>
+    <plmn locale="cn" mc="34650" name="Digicel Cayman Ltd"/>
+    <plmn locale="cn" mc="73801" name="Digicel Guyana"/>
+    <plmn locale="cn" mc="70602" name="DIGICEL"/>
+    <plmn locale="cn" mc="52023" name="Digital Phone"/>
+    <plmn locale="cn" mc="51505" name="Digitel (Sun Cellular Mobile)"/>
+    <plmn locale="cn" mc="51511" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="51513" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="51527" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="51530" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="51543" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="51584" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="51586" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="515752" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="515753" name="Digitel Fixed Line"/>
+    <plmn locale="cn" mc="63801" name="Djibouti Telecom"/>
+    <plmn locale="cn" mc="24403" name="DNA Finland Ltd"/>
+    <plmn locale="cn" mc="24412" name="DNA Finland Ltd"/>
+    <plmn locale="cn" mc="24409" name="DNA Finland Ltd"/>
+    <plmn locale="cn" mc="25010" name="Dontelecom"/>
+    <plmn locale="cn" mc="52811" name="DST"/>
+    <plmn locale="cn" mc="42403" name="Du"/>
+    <plmn locale="cn" mc="20420" name="Duchtone (Orange)"/>
+    <plmn locale="cn" mc="26203" name="E-plus"/>
+    <plmn locale="cn" mc="26205" name="E-plus"/>
+    <plmn locale="cn" mc="26277" name="E-plus"/>
+    <plmn locale="cn" mc="27603" name="Eagle Mobile"/>
+    <plmn locale="cn" mc="310750" name="East Kentucky Network LLC dba Appalachian Wireless"/>
+    <plmn locale="cn" mc="311070" name="Easterbrooke Cellular Corp"/>
+    <plmn locale="cn" mc="65102" name="Econet"/>
+    <plmn locale="cn" mc="64804" name="Econet"/>
+    <plmn locale="cn" mc="63905" name="Econet Wireless Kenya Limited"/>
+    <plmn locale="cn" mc="27201" name="Eircell (Vodafone)"/>
+    <plmn locale="cn" mc="60601" name="El Madar Telephone"/>
+    <plmn locale="cn" mc="24401" name="Elisa Corporation-GSM 900/1800 Finland"/>
+    <plmn locale="cn" mc="24405" name="Elisa Corporation-GSM 900/1800 Finland"/>
+    <plmn locale="cn" mc="24421" name="Elisa Corporation-GSM 900/1800 Finland"/>
+    <plmn locale="cn" mc="24802" name="Elisa Esti"/>
+    <plmn locale="cn" mc="25017" name="Emark RMS"/>
+    <plmn locale="cn" mc="61710" name="Emtel"/>
+    <plmn locale="cn" mc="311160" name="Endless Mountains Wireless"/>
+    <plmn locale="cn" mc="71021" name="Enitel"/>
+    <plmn locale="cn" mc="71073" name="Enitel"/>
+    <plmn locale="cn" mc="73602" name="ENTEL Movil"/>
+    <plmn locale="cn" mc="73001" name="ENTEL PCS Telecomunicaciones"/>
+    <plmn locale="cn" mc="73010" name="Entel Telefonia Movil"/>
+    <plmn locale="cn" mc="26002" name="Era (Heyah)"/>
+    <plmn locale="cn" mc="21803" name="ERONET"/>
+    <plmn locale="cn" mc="27202" name="Esat Digifone (O2)"/>
+    <plmn locale="cn" mc="36801" name="ETECSA (C-Com)"/>
+    <plmn locale="cn" mc="63601" name="Ethiopian Telecommunications"/>
+    <plmn locale="cn" mc="60203" name="Etisalat"/>
+    <plmn locale="cn" mc="42402" name="Etisalat"/>
+    <plmn locale="cn" mc="41250" name="Etislat"/>
+    <plmn locale="cn" mc="45702" name="ETL"/>
+    <plmn locale="cn" mc="23102" name="Eurotel Bratislava"/>
+    <plmn locale="cn" mc="25904" name="Eventis Mobile S.R.L."/>
+    <plmn locale="cn" mc="25028" name="Extel"/>
+    <plmn locale="cn" mc="25012" name="Far Eastern Cellular"/>
+    <plmn locale="cn" mc="46601" name="Far EasTone Telecommunications"/>
+    <plmn locale="cn" mc="311060" name="Farmers Cellular"/>
+    <plmn locale="cn" mc="311210" name="Farmers Cellular"/>
+    <plmn locale="cn" mc="28801" name="Faroese Telecom"/>
+    <plmn locale="cn" mc="41601" name="Fastlink(JMTS Zain)"/>
+    <plmn locale="cn" mc="310910" name="First Cellular Illinois"/>
+    <plmn locale="cn" mc="23404" name="FMS Solutions Ltd"/>
+    <plmn locale="cn" mc="21403" name="France Telecom Espana"/>
+    <plmn locale="cn" mc="41501" name="FTML (Alfa)"/>
+    <plmn locale="cn" mc="60701" name="Gamcel"/>
+    <plmn locale="cn" mc="311370" name="GCI Communications"/>
+    <plmn locale="cn" mc="28201" name="Geocell Ltd"/>
+    <plmn locale="cn" mc="62701" name="GETESA"/>
+    <plmn locale="cn" mc="62002" name="Ghana Telecom Mobile"/>
+    <plmn locale="cn" mc="26601" name="Gibtel"/>
+    <plmn locale="cn" mc="62150" name="Globacom"/>
+    <plmn locale="cn" mc="310970" name="Globalstar (Satellite Service)"/>
+    <plmn locale="cn" mc="51502" name="Globe Telecom"/>
+    <plmn locale="cn" mc="25505" name="Golden Telecom"/>
+    <plmn locale="cn" mc="47001" name="GrameenPhone"/>
+    <plmn locale="cn" mc="310470" name="Guam Cell ampersand Paging"/>
+    <plmn locale="cn" mc="310140" name="Guam Tele Authority (GTA)"/>
+    <plmn locale="cn" mc="23455" name="Guernsey"/>
+    <plmn locale="cn" mc="23414" name="Hay Systems Ltd"/>
+    <plmn locale="cn" mc="23806" name="Hi3G"/>
+    <plmn locale="cn" mc="24002" name="Hi3G"/>
+    <plmn locale="cn" mc="311100" name="High Plains Wireless"/>
+    <plmn locale="cn" mc="74401" name="Hola Paraguay S.A. (VOX)"/>
+    <plmn locale="cn" mc="45400" name="Hong Kong CSL Ltd (Pacific Link)"/>
+    <plmn locale="cn" mc="45402" name="Hong Kong CSL Ltd (Pacific Link)"/>
+    <plmn locale="cn" mc="45418" name="Hong Kong CSL Ltd (Pacific Link)"/>
+    <plmn locale="cn" mc="41308" name="Hutchison"/>
+    <plmn locale="cn" mc="50506" name="Hutchison 3G"/>
+    <plmn locale="cn" mc="23210" name="Hutchison 3G"/>
+    <plmn locale="cn" mc="45403" name="Hutchison 3G"/>
+    <plmn locale="cn" mc="27205" name="Hutchison 3G"/>
+    <plmn locale="cn" mc="22299" name="Hutchison 3G"/>
+    <plmn locale="cn" mc="23420" name="Hutchison 3G UK Ltd"/>
+    <plmn locale="cn" mc="51089" name="Hutchison CP Telecommunications"/>
+    <plmn locale="cn" mc="45401" name="Hutchison Telephone Co. Ltd (Orange)"/>
+    <plmn locale="cn" mc="45404" name="Hutchison Telephone Co. Ltd (Orange)"/>
+    <plmn locale="cn" mc="45414" name="Hutchison Telephone Co. Ltd (Orange)"/>
+    <plmn locale="cn" mc="45503" name="Hutchison Telephone Macau"/>
+    <plmn locale="cn" mc="71201" name="I.C.E. - GSM"/>
+    <plmn locale="cn" mc="71202" name="I.C.E. - GSM"/>
+    <plmn locale="cn" mc="71209" name="I.C.E. - GSM"/>
+    <plmn locale="cn" mc="27401" name="Iceland Telecom Ltd (Landssiminn)"/>
+    <plmn locale="cn" mc="311340" name="Illinois Valley Cellular"/>
+    <plmn locale="cn" mc="311030" name="Indigo Wireless"/>
+    <plmn locale="cn" mc="51021" name="Indosat M3 (merged with Satelindo)"/>
+    <plmn locale="cn" mc="20209" name="Info Quest S.A. (Q-TELECOM)"/>
+    <plmn locale="cn" mc="310580" name="Inland Cellular"/>
+    <plmn locale="cn" mc="23475" name="Inquam Telecom"/>
+    <plmn locale="cn" mc="310770" name="Iowa Wireless Services"/>
+    <plmn locale="cn" mc="311770" name="Iowa Wireless Services"/>
+    <plmn locale="cn" mc="43235" name="Irancell"/>
+    <plmn locale="cn" mc="310940" name="Iris Wireless LLC"/>
+    <plmn locale="cn" mc="51501" name="Islacom"/>
+    <plmn locale="cn" mc="27402" name="Islandssimi (Vodafone)"/>
+    <plmn locale="cn" mc="41862" name="Itisaluna"/>
+    <plmn locale="cn" mc="44020" name="J-Phone (Vodafone)"/>
+    <plmn locale="cn" mc="310650" name="Jasper Wireless Inc"/>
+    <plmn locale="cn" mc="43601" name="JC Somoncom"/>
+    <plmn locale="cn" mc="23450" name="Jersey Telecom Wave"/>
+    <plmn locale="cn" mc="23403" name="Jersey Telenet"/>
+    <plmn locale="cn" mc="40102" name="K-Cell"/>
+    <plmn locale="cn" mc="28802" name="Kall"/>
+    <plmn locale="cn" mc="310690" name="Keystone Wireless / Conestoga"/>
+    <plmn locale="cn" mc="43214" name="KFZO (TKC)"/>
+    <plmn locale="cn" mc="46688" name="KG Telecom"/>
+    <plmn locale="cn" mc="41840" name="KorekTel"/>
+    <plmn locale="cn" mc="20620" name="KPN Orange (BASE)"/>
+    <plmn locale="cn" mc="20408" name="KPN Telecom"/>
+    <plmn locale="cn" mc="25013" name="Kuban-GSM"/>
+    <plmn locale="cn" mc="25503" name="Kyivstar"/>
+    <plmn locale="cn" mc="24701" name="Latvian Mobile Telephone"/>
+    <plmn locale="cn" mc="61601" name="Libercom"/>
+    <plmn locale="cn" mc="20404" name="Libertell (Vodafone)"/>
+    <plmn locale="cn" mc="62801" name="Libertis"/>
+    <plmn locale="cn" mc="62910" name="Libertis Telecom - GSM 900"/>
+    <plmn locale="cn" mc="60600" name="Libyana"/>
+    <plmn locale="cn" mc="61801" name="Lonestar Communications Corp."/>
+    <plmn locale="cn" mc="311090" name="Long Lines Wireless LLC"/>
+    <plmn locale="cn" mc="61205" name="Loteny Telecom (MTN)"/>
+    <plmn locale="cn" mc="23426" name="Lycamobile Limited"/>
+    <plmn locale="cn" mc="64601" name="Madacom (Celtel"/>
+    <plmn locale="cn" mc="28202" name="Magti Com"/>
+    <plmn locale="cn" mc="61001" name="Malitel"/>
+    <plmn locale="cn" mc="45416" name="Mandarin Communications Ltd (Sunday)"/>
+    <plmn locale="cn" mc="23458" name="Manx"/>
+    <plmn locale="cn" mc="60401" name="Maroc Telecom (Itissalat Al-Maghrib)"/>
+    <plmn locale="cn" mc="65201" name="Mascom Wireless (Pty) Ltd."/>
+    <plmn locale="cn" mc="60901" name="Mattel"/>
+    <plmn locale="cn" mc="60910" name="Mauritel Mobiles"/>
+    <plmn locale="cn" mc="23203" name="Max Mobile (T-Mobile)"/>
+    <plmn locale="cn" mc="50212" name="Maxis"/>
+    <plmn locale="cn" mc="64301" name="mCel (TDM)"/>
+    <plmn locale="cn" mc="43211" name="MCI/TCI"/>
+    <plmn locale="cn" mc="60400" name="Medi-Telecom"/>
+    <plmn locale="cn" mc="25002" name="MegaFon (JSC Sonic Duo)"/>
+    <plmn locale="cn" mc="27877" name="Melita Mobile Ltd. (3 G Telecoms Malta)"/>
+    <plmn locale="cn" mc="27203" name="Meteor"/>
+    <plmn locale="cn" mc="310660" name="Metro PCS"/>
+    <plmn locale="cn" mc="310999" name="Metro PCS"/>
+    <plmn locale="cn" mc="64002" name="MIC Tanzania Ltd (Mobitel)"/>
+    <plmn locale="cn" mc="302370" name="Microcell"/>
+    <plmn locale="cn" mc="311000" name="Mid-Tex Cellular"/>
+    <plmn locale="cn" mc="45708" name="Milicom (Tango)"/>
+    <plmn locale="cn" mc="61902" name="Millicom"/>
+    <plmn locale="cn" mc="62003" name="Millicom (Tigo"/>
+    <plmn locale="cn" mc="42577" name="Mirs Communications Ltd"/>
+    <plmn locale="cn" mc="60202" name="Misfrone (Vodafone Egypt)"/>
+    <plmn locale="cn" mc="311020" name="Missouri RSA5 Partnership"/>
+    <plmn locale="cn" mc="42899" name="MobiCom Corporation"/>
+    <plmn locale="cn" mc="41677" name="Mobil Com(Orange)"/>
+    <plmn locale="cn" mc="21303" name="Mobiland (S.T.A.)"/>
+    <plmn locale="cn" mc="27821" name="Mobile Communications Ltd (Go mobile)"/>
+    <plmn locale="cn" mc="25701" name="Mobile Digital Communications (VELCOM)"/>
+    <plmn locale="cn" mc="40177" name="Mobile Telecom Service LLP"/>
+    <plmn locale="cn" mc="41902" name="Mobile Telecommunications Co. (MTCNet)"/>
+    <plmn locale="cn" mc="25702" name="Mobile Telesystems"/>
+    <plmn locale="cn" mc="25001" name="Mobile TeleSysytem (MTS)"/>
+    <plmn locale="cn" mc="52503" name="MobileOne"/>
+    <plmn locale="cn" mc="41001" name="Mobilink (Pakistan Mobile)"/>
+    <plmn locale="cn" mc="35002" name="Mobility"/>
+    <plmn locale="cn" mc="29505" name="Mobilkom (Liechtenstein) AG (FL1)"/>
+    <plmn locale="cn" mc="23201" name="Mobilkom A1"/>
+    <plmn locale="cn" mc="23211" name="Mobilkom A1"/>
+    <plmn locale="cn" mc="23209" name="Mobilkom A1"/>
+    <plmn locale="cn" mc="21805" name="Mobilna Srpske"/>
+    <plmn locale="cn" mc="60201" name="MobilNil"/>
+    <plmn locale="cn" mc="28401" name="Mobiltel"/>
+    <plmn locale="cn" mc="42003" name="Mobily (Etihad Etisalat Company)"/>
+    <plmn locale="cn" mc="20610" name="Mobistar"/>
+    <plmn locale="cn" mc="46693" name="Mobitai"/>
+    <plmn locale="cn" mc="29341" name="Mobitel"/>
+    <plmn locale="cn" mc="41301" name="Mobitel"/>
+    <plmn locale="cn" mc="63401" name="Mobitel"/>
+    <plmn locale="cn" mc="25902" name="Moldcell"/>
+    <plmn locale="cn" mc="21201" name="Monaco Telecom"/>
+    <plmn locale="cn" mc="29704" name="MONET"/>
+    <plmn locale="cn" mc="33850" name="Mossel (Digicel)"/>
+    <plmn locale="cn" mc="33850" name="Mossel Digicel (TCI)"/>
+    <plmn locale="cn" mc="25035" name="Motiv"/>
+    <plmn locale="cn" mc="732103" name="Movil SA (Tigo)"/>
+    <plmn locale="cn" mc="732111" name="Movil SA (Tigo)"/>
+    <plmn locale="cn" mc="74000" name="Movistar (Otecel)"/>
+    <plmn locale="cn" mc="71606" name="Movistar (Telefonica)"/>
+    <plmn locale="cn" mc="33403" name="Movistar Pegaso"/>
+    <plmn locale="cn" mc="64901" name="MTC"/>
+    <plmn locale="cn" mc="42004" name="MTC Saudi Arabia (Zain SA)"/>
+    <plmn locale="cn" mc="41503" name="MTC Touch (LibanCell)"/>
+    <plmn locale="cn" mc="42602" name="MTC Vodafone (Bahrain) B.S.C."/>
+    <plmn locale="cn" mc="29703" name="MTel"/>
+    <plmn locale="cn" mc="65510" name="MTN"/>
+    <plmn locale="cn" mc="41702" name="MTN (Spacetel"/>
+    <plmn locale="cn" mc="62401" name="MTN Cameroon Ltd"/>
+    <plmn locale="cn" mc="63510" name="MTN RwandaCell"/>
+    <plmn locale="cn" mc="63402" name="MTN Sudan (Bashair)"/>
+    <plmn locale="cn" mc="64110" name="MTN Uganda"/>
+    <plmn locale="cn" mc="310570" name="MTPCS LLC (Dobson / Cellular One)"/>
+    <plmn locale="cn" mc="42203" name="Nawras"/>
+    <plmn locale="cn" mc="42901" name="Nepal Mobile"/>
+    <plmn locale="cn" mc="24202" name="Netcom"/>
+    <plmn locale="cn" mc="24205" name="Network"/>
+    <plmn locale="cn" mc="310600" name="New Cell Inc. dba Cellcom"/>
+    <plmn locale="cn" mc="36320" name="New Millenium Telecom Services N.V."/>
+    <plmn locale="cn" mc="25016" name="New Telephone Company (NTC)"/>
+    <plmn locale="cn" mc="45410" name="New World Pcs"/>
+    <plmn locale="cn" mc="62130" name="Nigeria Communications Ltd (MTN)"/>
+    <plmn locale="cn" mc="25003" name="Nizhegorodskaya Cellular Communications"/>
+    <plmn locale="cn" mc="310017" name="North Sight Communications"/>
+    <plmn locale="cn" mc="310670" name="North Star"/>
+    <plmn locale="cn" mc="27411" name="Nova"/>
+    <plmn locale="cn" mc="44001" name="NTT DoCoMo"/>
+    <plmn locale="cn" mc="44010" name="NTT DoCoMo"/>
+    <plmn locale="cn" mc="44009" name="NTT DoCoMo"/>
+    <plmn locale="cn" mc="74405" name="Nucleo S.A (Personal)"/>
+    <plmn locale="cn" mc="73601" name="Nuevatel PCS De Bolivia S.A."/>
+    <plmn locale="cn" mc="27406" name="Null niu ehf"/>
+    <plmn locale="cn" mc="53024" name="NZ Communications (2degrees)"/>
+    <plmn locale="cn" mc="23106" name="O2"/>
+    <plmn locale="cn" mc="23002" name="O2 (Eurotel)"/>
+    <plmn locale="cn" mc="26207" name="O2 (Viag Interkom)"/>
+    <plmn locale="cn" mc="26208" name="O2 (Viag Interkom)"/>
+    <plmn locale="cn" mc="26211" name="O2 (Viag Interkom)"/>
+    <plmn locale="cn" mc="42202" name="Oman Mobile (OmanTel)"/>
+    <plmn locale="cn" mc="24601" name="Omnitel"/>
+    <plmn locale="cn" mc="23408" name="OnePhone"/>
+    <plmn locale="cn" mc="23416" name="Opal"/>
+    <plmn locale="cn" mc="26803" name="Optimus (Sonaecom)"/>
+    <plmn locale="cn" mc="50502" name="Optus"/>
+    <plmn locale="cn" mc="74201" name="Orange"/>
+    <plmn locale="cn" mc="63907" name="Orange"/>
+    <plmn locale="cn" mc="64602" name="Orange"/>
+    <plmn locale="cn" mc="22803" name="Orange"/>
+    <plmn locale="cn" mc="23433" name="Orange"/>
+    <plmn locale="cn" mc="23434" name="Orange"/>
+    <plmn locale="cn" mc="64700" name="Orange (France Telecom)"/>
+    <plmn locale="cn" mc="37001" name="Orange (FTD)"/>
+    <plmn locale="cn" mc="26003" name="Orange (IDEA"/>
+    <plmn locale="cn" mc="61002" name="Orange (Ikatel)"/>
+    <plmn locale="cn" mc="22610" name="Orange (MobilRom)"/>
+    <plmn locale="cn" mc="61203" name="Orange (SIM Ivoiris)"/>
+    <plmn locale="cn" mc="62402" name="Orange Cameroun S.A."/>
+    <plmn locale="cn" mc="34001" name="Orange Caraibe Mobiles"/>
+    <plmn locale="cn" mc="20800" name="Orange France"/>
+    <plmn locale="cn" mc="20801" name="Orange France"/>
+    <plmn locale="cn" mc="20802" name="Orange France"/>
+    <plmn locale="cn" mc="23101" name="Orange Slovensko"/>
+    <plmn locale="cn" mc="60302" name="Orascom Telecom Algerie Spa (Djezzy)"/>
+    <plmn locale="cn" mc="41830" name="Orascom Telecom Iraq Corporation (IRAQNA)"/>
+    <plmn locale="cn" mc="60503" name="Orascom Telecom Tunisie"/>
+    <plmn locale="cn" mc="34002" name="Outremer Telecom"/>
+    <plmn locale="cn" mc="64702" name="Outremer Telecom"/>
+    <plmn locale="cn" mc="27001" name="P ampersand T"/>
+    <plmn locale="cn" mc="64801" name="P + T Corporation (NET*ONE)"/>
+    <plmn locale="cn" mc="26006" name="P4 Sp. z o.o (PLAY)"/>
+    <plmn locale="cn" mc="42505" name="Palestine Telecomm Co Ltd (Jawaal)"/>
+    <plmn locale="cn" mc="310760" name="Panhandle Telecommunications Systems"/>
+    <plmn locale="cn" mc="21601" name="Pannon"/>
+    <plmn locale="cn" mc="42501" name="Partner Orange"/>
+    <plmn locale="cn" mc="42503" name="Pelephone Communications"/>
+    <plmn locale="cn" mc="45412" name="Peoples TC (PCCWHKTC)"/>
+    <plmn locale="cn" mc="722340" name="Personal GSM 1900"/>
+    <plmn locale="cn" mc="311170" name="PetroCom Maritime (Broadpoint)"/>
+    <plmn locale="cn" mc="310100" name="Plateau Wireless (New Mexico RSA4 East)"/>
+    <plmn locale="cn" mc="26001" name="Plus (Polkomtel)"/>
+    <plmn locale="cn" mc="64903" name="Powercom (Pty) Ltd (Cell One)"/>
+    <plmn locale="cn" mc="25092" name="Primtelefone"/>
+    <plmn locale="cn" mc="29702" name="Promonte"/>
+    <plmn locale="cn" mc="51008" name="PT Natrindo Telepon Seluler (Axis)"/>
+    <plmn locale="cn" mc="51010" name="PT Telekomunikasi Selular (Telkomsel)"/>
+    <plmn locale="cn" mc="51011" name="PT. Excelcomindo (Excelcom)"/>
+    <plmn locale="cn" mc="310110" name="PTI Pacifica"/>
+    <plmn locale="cn" mc="42701" name="Q-Tel"/>
+    <plmn locale="cn" mc="23412" name="Railtrack"/>
+    <plmn locale="cn" mc="22605" name="RCS ampersand RDS DigiMobil"/>
+    <plmn locale="cn" mc="40467" name="Reliance Telecom"/>
+    <plmn locale="cn" mc="302720" name="Rogers Wireless Inc"/>
+    <plmn locale="cn" mc="41220" name="Roshan"/>
+    <plmn locale="cn" mc="23422" name="Routo Telecom Ltd."/>
+    <plmn locale="cn" mc="63512" name="RwandaTel"/>
+    <plmn locale="cn" mc="63902" name="Safaricom"/>
+    <plmn locale="cn" mc="63089" name="SAIT Telecom"/>
+    <plmn locale="cn" mc="51001" name="Satelindo(PT Indosat)"/>
+    <plmn locale="cn" mc="42001" name="Saudi Telecom"/>
+    <plmn locale="cn" mc="62001" name="ScanCom Ltd (MTN)"/>
+    <plmn locale="cn" mc="310730" name="SeaMobile"/>
+    <plmn locale="cn" mc="60802" name="Sentel"/>
+    <plmn locale="cn" mc="36301" name="SETAR (Servicio di Telecomunicacion di Aruba)"/>
+    <plmn locale="cn" mc="36291" name="Setel NV (UTS Wireless Curacao)"/>
+    <plmn locale="cn" mc="20810" name="SFR"/>
+    <plmn locale="cn" mc="20811" name="SFR"/>
+    <plmn locale="cn" mc="20813" name="SFR"/>
+    <plmn locale="cn" mc="64710" name="SFR"/>
+    <plmn locale="cn" mc="47003" name="Sheba Telecom (Banglalink)"/>
+    <plmn locale="cn" mc="29340" name="Si Mobil"/>
+    <plmn locale="cn" mc="25004" name="Sibchallenge"/>
+    <plmn locale="cn" mc="25012" name="Sibirtelecom"/>
+    <plmn locale="cn" mc="310460" name="SIMMETRY / TMP"/>
+    <plmn locale="cn" mc="52501" name="SingTel"/>
+    <plmn locale="cn" mc="43701" name="Sky Mobile (Bitel)"/>
+    <plmn locale="cn" mc="51503" name="Smart Communications"/>
+    <plmn locale="cn" mc="456456" name="Smart mobile (Latelz)"/>
+    <plmn locale="cn" mc="45500" name="SmarTone Mobile Communications"/>
+    <plmn locale="cn" mc="45406" name="SmarTone Mobile Communications Ltd"/>
+    <plmn locale="cn" mc="45415" name="SmarTone Mobile Communications Ltd"/>
+    <plmn locale="cn" mc="45417" name="SmarTone Mobile Communications Ltd"/>
+    <plmn locale="cn" mc="60801" name="Sonatel (Alize)"/>
+    <plmn locale="cn" mc="23802" name="Sonofon"/>
+    <plmn locale="cn" mc="45609" name="Sotelco Ltd. (Beeline-KH)"/>
+    <plmn locale="cn" mc="316011" name="Southern Communication Services (IDEN)"/>
+    <plmn locale="cn" mc="42102" name="Spacetel (MTN)"/>
+    <plmn locale="cn" mc="61603" name="Spacetel-Benin (BeninCell)"/>
+    <plmn locale="cn" mc="310120" name="Sprint Nextel (CDMA network - formerly Sprint)"/>
+    <plmn locale="cn" mc="316010" name="Sprint Nextel (IDEN network - formerly Nextel)"/>
+    <plmn locale="cn" mc="311140" name="Sprocket (MBO Wireless)"/>
+    <plmn locale="cn" mc="52505" name="StarHub"/>
+    <plmn locale="cn" mc="25044" name="StavTeleSot (North-Caucasian GSM)"/>
+    <plmn locale="cn" mc="330490" name="Suncom DBA"/>
+    <plmn locale="cn" mc="22802" name="Sunrise (Diax)"/>
+    <plmn locale="cn" mc="65310" name="Swazi MTN"/>
+    <plmn locale="cn" mc="22801" name="Swisscom Mobile"/>
+    <plmn locale="cn" mc="41701" name="Syratel"/>
+    <plmn locale="cn" mc="21901" name="T-mobile"/>
+    <plmn locale="cn" mc="23430" name="T-Mobile"/>
+    <plmn locale="cn" mc="20416" name="T-Mobile (Ben)"/>
+    <plmn locale="cn" mc="310310" name="T-Mobile (Central Region - Forme Aerial)"/>
+    <plmn locale="cn" mc="310026" name="T-Mobile (Cook Inlet)"/>
+    <plmn locale="cn" mc="310260" name="T-Mobile (Denver-Colorado)"/>
+    <plmn locale="cn" mc="310160" name="T-Mobile (East Region)"/>
+    <plmn locale="cn" mc="310270" name="T-Mobile (Formerly Powertel)"/>
+    <plmn locale="cn" mc="310490" name="T-Mobile (Formerly SunCom)"/>
+    <plmn locale="cn" mc="310250" name="T-Mobile (Honolulu-H)"/>
+    <plmn locale="cn" mc="310210" name="T-Mobile (Kansas City)"/>
+    <plmn locale="cn" mc="29401" name="T-Mobile (MobiMak)"/>
+    <plmn locale="cn" mc="310220" name="T-Mobile (OklahomaCity)"/>
+    <plmn locale="cn" mc="310240" name="T-Mobile (Phoenix-Arizona)"/>
+    <plmn locale="cn" mc="23001" name="T-Mobile (Radio Mobil)"/>
+    <plmn locale="cn" mc="310230" name="T-Mobile (Salt Lake City)"/>
+    <plmn locale="cn" mc="310200" name="T-Mobile (Seattle-Washington)"/>
+    <plmn locale="cn" mc="23431" name="T-Mobile (Virgin MVNO)"/>
+    <plmn locale="cn" mc="23432" name="T-Mobile (Virgin MVNO)"/>
+    <plmn locale="cn" mc="21630" name="T-Mobile (Westel)"/>
+    <plmn locale="cn" mc="62502" name="T+ Telecom"/>
+    <plmn locale="cn" mc="52099" name="TA Orange (True Move Company)"/>
+    <plmn locale="cn" mc="46697" name="Taiwan Cellular Corporation (TWNGSM)"/>
+    <plmn locale="cn" mc="43232" name="Taliya"/>
+    <plmn locale="cn" mc="27077" name="Tango"/>
+    <plmn locale="cn" mc="310900" name="Taylor Telecommunications"/>
+    <plmn locale="cn" mc="61505" name="Telcel"/>
+    <plmn locale="cn" mc="33402" name="Telcel (Radiomovil)"/>
+    <plmn locale="cn" mc="73404" name="Telcel C.A. (Movistar)"/>
+    <plmn locale="cn" mc="36251" name="Telcell"/>
+    <plmn locale="cn" mc="23801" name="Tele Denmark (TDC A/S)"/>
+    <plmn locale="cn" mc="29001" name="Tele Greenland A/S"/>
+    <plmn locale="cn" mc="23209" name="Tele2"/>
+    <plmn locale="cn" mc="21902" name="Tele2"/>
+    <plmn locale="cn" mc="23877" name="Tele2"/>
+    <plmn locale="cn" mc="20402" name="Tele2"/>
+    <plmn locale="cn" mc="24204" name="Tele2"/>
+    <plmn locale="cn" mc="24702" name="Tele2 (Baltcom GSM)"/>
+    <plmn locale="cn" mc="25020" name="Tele2 (Oblkom)"/>
+    <plmn locale="cn" mc="29577" name="Tele2 AG (Tango)"/>
+    <plmn locale="cn" mc="24803" name="Tele2 Eesti"/>
+    <plmn locale="cn" mc="24603" name="Tele2 UAB"/>
+    <plmn locale="cn" mc="61303" name="Telecel"/>
+    <plmn locale="cn" mc="64203" name="Telecel"/>
+    <plmn locale="cn" mc="62802" name="TELECEL"/>
+    <plmn locale="cn" mc="26801" name="Telecel (Vodafone)"/>
+    <plmn locale="cn" mc="74404" name="Telecel S.A."/>
+    <plmn locale="cn" mc="64502" name="Telecel Zambia Ltd"/>
+    <plmn locale="cn" mc="64803" name="Telecel Zimbabwe"/>
+    <plmn locale="cn" mc="35001" name="Telecom Bermuda"/>
+    <plmn locale="cn" mc="60702" name="Telecom Cellular (Africell)"/>
+    <plmn locale="cn" mc="54801" name="Telecom Cook Islands"/>
+    <plmn locale="cn" mc="29501" name="Telecom FL (Swisscom)"/>
+    <plmn locale="cn" mc="22201" name="Telecom Italia Mobile"/>
+    <plmn locale="cn" mc="53000" name="Telecom New Zealand"/>
+    <plmn locale="cn" mc="53002" name="Telecom New Zealand"/>
+    <plmn locale="cn" mc="53005" name="Telecom New Zealand"/>
+    <plmn locale="cn" mc="22003" name="Telecom Serbia"/>
+    <plmn locale="cn" mc="63310" name="Telecom Seychelles (Airtel)"/>
+    <plmn locale="cn" mc="54101" name="Telecom Vanuatu Ltd (SMILE)"/>
+    <plmn locale="cn" mc="73406" name="Telecomunicaciones Movilnet C.A."/>
+    <plmn locale="cn" mc="71420" name="Telefonica"/>
+    <plmn locale="cn" mc="23402" name="Telefonica (O2)"/>
+    <plmn locale="cn" mc="23410" name="Telefonica (O2)"/>
+    <plmn locale="cn" mc="23411" name="Telefonica (O2)"/>
+    <plmn locale="cn" mc="73630" name="Telefonica Celular De Bolivia S.A."/>
+    <plmn locale="cn" mc="70802" name="Telefonica Celular S.A (CELTEL)"/>
+    <plmn locale="cn" mc="73002" name="Telefonica Movil de Chile"/>
+    <plmn locale="cn" mc="74807" name="Telefonica Moviles"/>
+    <plmn locale="cn" mc="21407" name="Telefonica Moviles (Movistar)"/>
+    <plmn locale="cn" mc="732123" name="Telefonica Moviles Colombia S.A. (Movistar)"/>
+    <plmn locale="cn" mc="70403" name="Telefonica Moviles Guatemala"/>
+    <plmn locale="cn" mc="70604" name="Telefonica Moviles"/>
+    <plmn locale="cn" mc="72270" name="Telefonica Movistar"/>
+    <plmn locale="cn" mc="65001" name="Telekom Network Ltd (TNM)"/>
+    <plmn locale="cn" mc="61301" name="Telemob SA (Onatel)"/>
+    <plmn locale="cn" mc="70603" name="Telemovil EL Salvador S.A"/>
+    <plmn locale="cn" mc="41006" name="Telenor"/>
+    <plmn locale="cn" mc="22001" name="Telenor (Mobtel)"/>
+    <plmn locale="cn" mc="24008" name="Telenor (Vodafone"/>
+    <plmn locale="cn" mc="24201" name="Telenor Mobil"/>
+    <plmn locale="cn" mc="41201" name="Telephone Systems International (AWCC)"/>
+    <plmn locale="cn" mc="73802" name="TelephoneampersandTelegraph Co."/>
+    <plmn locale="cn" mc="23207" name="Telering"/>
+    <plmn locale="cn" mc="74602" name="Telesur"/>
+    <plmn locale="cn" mc="23419" name="Teleware"/>
+    <plmn locale="cn" mc="20412" name="Telfort (O2)"/>
+    <plmn locale="cn" mc="24001" name="Telia"/>
+    <plmn locale="cn" mc="23820" name="Telia (Orange)"/>
+    <plmn locale="cn" mc="24491" name="TeliaSonera"/>
+    <plmn locale="cn" mc="64604" name="Telma Mobile"/>
+    <plmn locale="cn" mc="28602" name="Telsim (Vodafone)"/>
+    <plmn locale="cn" mc="50501" name="Telstra"/>
+    <plmn locale="cn" mc="53004" name="Telstra"/>
+    <plmn locale="cn" mc="302220" name="Telus"/>
+    <plmn locale="cn" mc="302302" name="Telus Mobility"/>
+    <plmn locale="cn" mc="302360" name="Telus Mobility"/>
+    <plmn locale="cn" mc="302653" name="Telus Mobility"/>
+    <plmn locale="cn" mc="62203" name="TIGO - Millicom"/>
+    <plmn locale="cn" mc="72402" name="TIM"/>
+    <plmn locale="cn" mc="72403" name="TIM"/>
+    <plmn locale="cn" mc="72404" name="TIM"/>
+    <plmn locale="cn" mc="72408" name="TIM"/>
+    <plmn locale="cn" mc="47002" name="TM International (AKTEL)"/>
+    <plmn locale="cn" mc="26806" name="TMN"/>
+    <plmn locale="cn" mc="72431" name="TNL PCS (Oi)"/>
+    <plmn locale="cn" mc="61501" name="Togo Cellulaire"/>
+    <plmn locale="cn" mc="52018" name="Total Access Comms Co. (DTAC)"/>
+    <plmn locale="cn" mc="46699" name="TransAsia Telecommunications"/>
+    <plmn locale="cn" mc="37401" name="TSTT"/>
+    <plmn locale="cn" mc="37412" name="TSTT"/>
+    <plmn locale="cn" mc="37420" name="TSTT"/>
+    <plmn locale="cn" mc="43603" name="TT Mobile (MLT)"/>
+    <plmn locale="cn" mc="60502" name="Tunisie Telecom"/>
+    <plmn locale="cn" mc="28601" name="Turkcell"/>
+    <plmn locale="cn" mc="29370" name="Tusmobile"/>
+    <plmn locale="cn" mc="50218" name="U-Mobile"/>
+    <plmn locale="cn" mc="41003" name="Ufone (Pak Telecom Mobile)"/>
+    <plmn locale="cn" mc="64111" name="Uganda Telecom Ltd (UTL Telecel)"/>
+    <plmn locale="cn" mc="23401" name="UK01 - Mapesbury Communications"/>
+    <plmn locale="cn" mc="25502" name="Ukrainian Radio Systems"/>
+    <plmn locale="cn" mc="25501" name="UMC"/>
+    <plmn locale="cn" mc="41603" name="UMC (Umniah)"/>
+    <plmn locale="cn" mc="310890" name="Unicel (Rural Cellular Corp)"/>
+    <plmn locale="cn" mc="311300" name="Unicel (Rural Cellular Corp)"/>
+    <plmn locale="cn" mc="37250" name="Unigestion Holding S.A. (Digicel)"/>
+    <plmn locale="cn" mc="310020" name="Union Telephone Company (APC Sprint Spectrum)"/>
+    <plmn locale="cn" mc="63102" name="Unitel"/>
+    <plmn locale="cn" mc="43404" name="Unitel LLC (Beeline"/>
+    <plmn locale="cn" mc="25039" name="Uraltel"/>
+    <plmn locale="cn" mc="311580" name="US Cellular"/>
+    <plmn locale="cn" mc="43407" name="Uzdunrobita"/>
+    <plmn locale="cn" mc="43402" name="Uzmacom"/>
+    <plmn locale="cn" mc="310004" name="Verizon Wireless"/>
+    <plmn locale="cn" mc="310012" name="Verizon Wireless"/>
+    <plmn locale="cn" mc="310590" name="Verizon Wireless (Formerly Alltel)"/>
+    <plmn locale="cn" mc="310013" name="Verizon Wireless (Formerly Alltel)"/>
+    <plmn locale="cn" mc="310450" name="Viaero Wireless"/>
+    <plmn locale="cn" mc="45608" name="Viatel Metfone"/>
+    <plmn locale="cn" mc="46689" name="VIBO"/>
+    <plmn locale="cn" mc="45201" name="Viet Nam Mobile Service (Mobifone)"/>
+    <plmn locale="cn" mc="45202" name="Viet Nam Telecoms Services (Vinaphone)"/>
+    <plmn locale="cn" mc="45204" name="Vietel Corporation (Viettel Mobile)"/>
+    <plmn locale="cn" mc="54720" name="Vini (Tikiphone)"/>
+    <plmn locale="cn" mc="22005" name="VIP"/>
+    <plmn locale="cn" mc="21910" name="Vipnet"/>
+    <plmn locale="cn" mc="65202" name="Vista Cellular (Orange)"/>
+    <plmn locale="cn" mc="41904" name="Viva"/>
+    <plmn locale="cn" mc="63405" name="Vivacell"/>
+    <plmn locale="cn" mc="28305" name="Vivacell(K Telecom)"/>
+    <plmn locale="cn" mc="28406" name="Vivatel"/>
+    <plmn locale="cn" mc="72406" name="VIVO"/>
+    <plmn locale="cn" mc="72410" name="VIVO"/>
+    <plmn locale="cn" mc="72411" name="VIVO"/>
+    <plmn locale="cn" mc="72423" name="VIVO"/>
+    <plmn locale="cn" mc="64304" name="Vodacom"/>
+    <plmn locale="cn" mc="65501" name="Vodacom"/>
+    <plmn locale="cn" mc="64004" name="Vodacom"/>
+    <plmn locale="cn" mc="65101" name="Vodacom Lesotho"/>
+    <plmn locale="cn" mc="27602" name="Vodafone"/>
+    <plmn locale="cn" mc="50503" name="Vodafone"/>
+    <plmn locale="cn" mc="54201" name="Vodafone"/>
+    <plmn locale="cn" mc="21670" name="Vodafone"/>
+    <plmn locale="cn" mc="23415" name="Vodafone"/>
+    <plmn locale="cn" mc="22601" name="Vodafone (Connex"/>
+    <plmn locale="cn" mc="23003" name="Vodafone (Oscar"/>
+    <plmn locale="cn" mc="20205" name="Vodafone (Panafone)"/>
+    <plmn locale="cn" mc="27801" name="Vodafone Malta"/>
+    <plmn locale="cn" mc="53001" name="Vodafone New Zealand Ltd."/>
+    <plmn locale="cn" mc="22210" name="Vodafone Omnitel"/>
+    <plmn locale="cn" mc="42702" name="Vodafone Qatar Q.S.C."/>
+    <plmn locale="cn" mc="27099" name="VOXmobile"/>
+    <plmn locale="cn" mc="25901" name="Voxtel"/>
+    <plmn locale="cn" mc="47007" name="Warid Telecom"/>
+    <plmn locale="cn" mc="41007" name="WARID Telecom"/>
+    <plmn locale="cn" mc="41903" name="Wataniya"/>
+    <plmn locale="cn" mc="47202" name="Wataniya Telecom"/>
+    <plmn locale="cn" mc="60303" name="Wataniya Telecom (Nedjma)"/>
+    <plmn locale="cn" mc="310400" name="Wave Runner LLC / ICAN (Guam)"/>
+    <plmn locale="cn" mc="310340" name="Westlink Communications"/>
+    <plmn locale="cn" mc="311050" name="Wikes Cellular"/>
+    <plmn locale="cn" mc="22288" name="WIND"/>
+    <plmn locale="cn" mc="20210" name="WIND Hellas(STET"/>
+    <plmn locale="cn" mc="365850" name="Wireless Ventures Ltd (Digicel Anguilla)"/>
+    <plmn locale="cn" mc="21404" name="Xfera Moviles"/>
+    <plmn locale="cn" mc="310950" name="XIT Wireless (Texas RSA1)"/>
+    <plmn locale="cn" mc="41602" name="Xpress"/>
+    <plmn locale="cn" mc="42101" name="Yemen Mobile (Sabafon)"/>
+    <plmn locale="cn" mc="63903" name="Zain (Celtel Kenya)"/>
+    <plmn locale="cn" mc="62006" name="Zain Communications Limited"/>
+    <plmn locale="cn" mc="62901" name="Zain Congo - GSM 900"/>
+    <plmn locale="cn" mc="64503" name="Zamtel (Cell Z)"/>
+    <plmn locale="cn" mc="64003" name="Zanzibar Telecom (ZANTEL)"/>
+    <plmn locale="cn" mc="25007" name="Zao Smarts"/>
+    <plmn locale="cn" mc="41004" name="ZONG (CMPak)"/>
+    <plmn locale="en" mc="46000" name="China Mobile"/>
+    <plmn locale="en" mc="46002" name="China Mobile"/>
+    <plmn locale="en" mc="46001" name="China Unicom"/>
+    <plmn locale="en" mc="61202" name="A-Cell"/>
+    <plmn locale="en" mc="310050" name="ACS Wireless"/>
+    <plmn locale="en" mc="52001" name="Advanced Info Service PLC (AIS GSM)"/>
+    <plmn locale="en" mc="310850" name="Aeris Communications"/>
+    <plmn locale="en" mc="61905" name="Africell"/>
+    <plmn locale="en" mc="310640" name="Airadigm Communications (Einstein Wireless)"/>
+    <plmn locale="en" mc="21401" name="Airtel (Vodafone)"/>
+    <plmn locale="en" mc="21406" name="Airtel (Vodafone)"/>
+    <plmn locale="en" mc="21409" name="Airtel (Vodafone)"/>
+    <plmn locale="en" mc="24414" name="Alands Mobiltelefon AB"/>
+    <plmn locale="en" mc="74810" name="AM Wireless (Claro)"/>
+    <plmn locale="en" mc="72424" name="Amazonia Celular"/>
+    <plmn locale="en" mc="27601" name="AMC Mobile"/>
+    <plmn locale="en" mc="71610" name="America Movil Peru S.A.C (CLARO PERU)"/>
+    <plmn locale="en" mc="310630" name="Amerilink PCS CHOICE / Texas-10LLC"/>
+    <plmn locale="en" mc="722310" name="AMX Argentina (Claro)"/>
+    <plmn locale="en" mc="722320" name="AMX Argentina (Claro)"/>
+    <plmn locale="en" mc="722330" name="AMX Argentina (Claro)"/>
+    <plmn locale="en" mc="74801" name="ANTEL"/>
+    <plmn locale="en" mc="34430" name="APUA"/>
+    <plmn locale="en" mc="41240" name="Areba"/>
+    <plmn locale="en" mc="28010" name="Areeba (Scancom)"/>
+    <plmn locale="en" mc="28603" name="Aria"/>
+    <plmn locale="en" mc="28301" name="ArmenTel"/>
+    <plmn locale="en" mc="24801" name="AS EMT"/>
+    <plmn locale="en" mc="45703" name="Asia Telecommunication (LAT)"/>
+    <plmn locale="en" mc="41805" name="AsiaCell"/>
+    <plmn locale="en" mc="25506" name="Astelit"/>
+    <plmn locale="en" mc="310380" name="ATampersandT Mobility (Formerly ATampersandT Wireless Blue)"/>
+    <plmn locale="en" mc="310560" name="ATampersandT Mobility (Formerly Cellular One / Dobson)"/>
+    <plmn locale="en" mc="310150" name="ATampersandT Mobility (Formerly Cingular BellSouth)"/>
+    <plmn locale="en" mc="310410" name="ATampersandT Mobility (Formerly Cingular Genesis)"/>
+    <plmn locale="en" mc="310170" name="ATampersandT Mobility (Formerly Cingular Pacific)"/>
+    <plmn locale="en" mc="41820" name="Atheer Telecom"/>
+    <plmn locale="en" mc="60301" name="ATM Mobilis"/>
+    <plmn locale="en" mc="28604" name="Aycell"/>
+    <plmn locale="en" mc="40001" name="Azercell"/>
+    <plmn locale="en" mc="40004" name="Azerfon"/>
+    <plmn locale="en" mc="52802" name="B-Mobile"/>
+    <plmn locale="en" mc="43604" name="Babilon Mobile"/>
+    <plmn locale="en" mc="364390" name="Bahamas Telecommunications Company Ltd"/>
+    <plmn locale="en" mc="40002" name="Bakcell"/>
+    <plmn locale="en" mc="42601" name="Batelco"/>
+    <plmn locale="en" mc="43801" name="BCTI"/>
+    <plmn locale="en" mc="40101" name="Beeline (Kar-Tel Ltd)"/>
+    <plmn locale="en" mc="25099" name="Beeline GSM 900/1800_ RUSSIJA"/>
+    <plmn locale="en" mc="25704" name="Belarusian Telecommunications Network CJSC"/>
+    <plmn locale="en" mc="20601" name="Belgacom Mobile (Proximus)"/>
+    <plmn locale="en" mc="70267" name="Belize Telecommunications Ltd."/>
+    <plmn locale="en" mc="302064" name="Bell Mobility - Rogers Wireless CDMA"/>
+    <plmn locale="en" mc="302610" name="Bell Mobility - Rogers Wireless CDMA"/>
+    <plmn locale="en" mc="21890" name="BH Telecom (PTT BiH"/>
+    <plmn locale="en" mc="41305" name="Bharti Airtel Lanka (Pvt) Ltd"/>
+    <plmn locale="en" mc="43705" name="BiMoCom (Megacom)"/>
+    <plmn locale="en" mc="24705" name="Bite GSM"/>
+    <plmn locale="en" mc="24602" name="Bite GSM UAB"/>
+    <plmn locale="en" mc="311440" name="Bluegrass Cellular"/>
+    <plmn locale="en" mc="20820" name="Bouygues Telecom"/>
+    <plmn locale="en" mc="20821" name="Bouygues Telecom"/>
+    <plmn locale="en" mc="20888" name="Bouygues Telecom"/>
+    <plmn locale="en" mc="72416" name="Brazil Telecom"/>
+    <plmn locale="en" mc="45501" name="C.T.M. (TELEMOVEL+ GSM900-Macau)"/>
+    <plmn locale="en" mc="365840" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="342600" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="346140" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="366110" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="352110" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="71401" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="356110" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="358110" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="63301" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="376350" name="Cable ampersand Wireless"/>
+    <plmn locale="en" mc="33820" name="Cable ampersand Wireless Jamaice"/>
+    <plmn locale="en" mc="348170" name="Cable and Wireless"/>
+    <plmn locale="en" mc="23407" name="Cable and Wireless UK"/>
+    <plmn locale="en" mc="45601" name="CamGSM (MobiTel)"/>
+    <plmn locale="en" mc="45618" name="Camshin (Shinawatra) DCS 1800"/>
+    <plmn locale="en" mc="310830" name="Caprock Cellular"/>
+    <plmn locale="en" mc="45602" name="Casacom (Samart) GSM 900"/>
+    <plmn locale="en" mc="61807" name="Celcom"/>
+    <plmn locale="en" mc="50219" name="Celcom"/>
+    <plmn locale="en" mc="311130" name="Cell One (Amarillo)"/>
+    <plmn locale="en" mc="65507" name="Cell-C"/>
+    <plmn locale="en" mc="42502" name="Cellcom"/>
+    <plmn locale="en" mc="61701" name="Cellplus"/>
+    <plmn locale="en" mc="41303" name="Celltel(Tigo)"/>
+    <plmn locale="en" mc="310320" name="Cellular One"/>
+    <plmn locale="en" mc="310820" name="Cellular One (South Canaan Cellular"/>
+    <plmn locale="en" mc="311190" name="Cellular Properties"/>
+    <plmn locale="en" mc="311230" name="Cellular South"/>
+    <plmn locale="en" mc="62201" name="Celtel"/>
+    <plmn locale="en" mc="63002" name="Celtel"/>
+    <plmn locale="en" mc="62803" name="Celtel"/>
+    <plmn locale="en" mc="61401" name="Celtel"/>
+    <plmn locale="en" mc="61901" name="Celtel"/>
+    <plmn locale="en" mc="65010" name="CelTel Ltd"/>
+    <plmn locale="en" mc="62120" name="Celtel Nigeria (Vmobile)"/>
+    <plmn locale="en" mc="64005" name="Celtel Tanzania Ltd"/>
+    <plmn locale="en" mc="64101" name="Celtel Uganda Limited (Zain Uganda)"/>
+    <plmn locale="en" mc="64501" name="Celtel Zambia Ltd (Zain)"/>
+    <plmn locale="en" mc="310030" name="Centennial Communications"/>
+    <plmn locale="en" mc="33030" name="Centennial Operations Corp."/>
+    <plmn locale="en" mc="311010" name="Chariton Valley Communications"/>
+    <plmn locale="en" mc="311120" name="Choice Phone"/>
+    <plmn locale="en" mc="46611" name="Chung Hwa Telecom LDM"/>
+    <plmn locale="en" mc="310420" name="Cincinnati Bell Wireless"/>
+    <plmn locale="en" mc="72405" name="Claro"/>
+    <plmn locale="en" mc="70801" name="Claro"/>
+    <plmn locale="en" mc="74402" name="Claro (Hutchison Telecom)"/>
+    <plmn locale="en" mc="73003" name="Claro Chile"/>
+    <plmn locale="en" mc="23418" name="Cloud 9"/>
+    <plmn locale="en" mc="311620" name="Coleman County Telecom"/>
+    <plmn locale="en" mc="70402" name="Comcel"/>
+    <plmn locale="en" mc="61204" name="Comium"/>
+    <plmn locale="en" mc="61904" name="Comium"/>
+    <plmn locale="en" mc="61804" name="Comium Liberia Inc"/>
+    <plmn locale="en" mc="311040" name="Commnet Wireless"/>
+    <plmn locale="en" mc="65401" name="Comores Telecom"/>
+    <plmn locale="en" mc="24007" name="Comviq (Tele2)"/>
+    <plmn locale="en" mc="310040" name="Concho Cellular"/>
+    <plmn locale="en" mc="74001" name="Conecel (Porta)"/>
+    <plmn locale="en" mc="23205" name="Connect (One)"/>
+    <plmn locale="en" mc="73402" name="Corporacion Digitel C.A. (DIGITEL)"/>
+    <plmn locale="en" mc="310080" name="Corr Wireless Communications"/>
+    <plmn locale="en" mc="43405" name="Coscom"/>
+    <plmn locale="en" mc="28405" name="Cosmo Bulgaria Mobile EAD (GloBul)"/>
+    <plmn locale="en" mc="29402" name="Cosmofon"/>
+    <plmn locale="en" mc="22603" name="Cosmorom (Cosmote Romanian MT S.A.)"/>
+    <plmn locale="en" mc="20201" name="Cosmote"/>
+    <plmn locale="en" mc="310016" name="Cricket Communications"/>
+    <plmn locale="en" mc="70601" name="CTE Telecom Personal SA de CV"/>
+    <plmn locale="en" mc="51518" name="CURE"/>
+    <plmn locale="en" mc="62501" name="CV Movel"/>
+    <plmn locale="en" mc="28001" name="CYTA (Vodafone)"/>
+    <plmn locale="en" mc="26201" name="D1 (T-Mobile)"/>
+    <plmn locale="en" mc="26202" name="D2 (Vodafone)"/>
+    <plmn locale="en" mc="26204" name="D2 (Vodafone)"/>
+    <plmn locale="en" mc="26209" name="D2 (Vodafone)"/>
+    <plmn locale="en" mc="47201" name="Dhiraagu"/>
+    <plmn locale="en" mc="41302" name="Dialog (MTN)"/>
+    <plmn locale="en" mc="50216" name="Digi"/>
+    <plmn locale="en" mc="54202" name="Digicel"/>
+    <plmn locale="en" mc="34020" name="Digicel"/>
+    <plmn locale="en" mc="35230" name="Digicel"/>
+    <plmn locale="en" mc="36269" name="Digicel"/>
+    <plmn locale="en" mc="54901" name="Digicel"/>
+    <plmn locale="en" mc="74603" name="Digicel"/>
+    <plmn locale="en" mc="37413" name="Digicel"/>
+    <plmn locale="en" mc="374130" name="Digicel"/>
+    <plmn locale="en" mc="54105" name="Digicel"/>
+    <plmn locale="en" mc="71404" name="Digicel (Panama) S.A."/>
+    <plmn locale="en" mc="53703" name="Digicel (PNG) Limited"/>
+    <plmn locale="en" mc="34650" name="Digicel Cayman Ltd"/>
+    <plmn locale="en" mc="73801" name="Digicel Guyana"/>
+    <plmn locale="en" mc="70602" name="DIGICEL"/>
+    <plmn locale="en" mc="52023" name="Digital Phone"/>
+    <plmn locale="en" mc="51505" name="Digitel (Sun Cellular Mobile)"/>
+    <plmn locale="en" mc="51511" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="51513" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="51527" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="51530" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="51543" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="51584" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="51586" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="515752" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="515753" name="Digitel Fixed Line"/>
+    <plmn locale="en" mc="63801" name="Djibouti Telecom"/>
+    <plmn locale="en" mc="24403" name="DNA Finland Ltd"/>
+    <plmn locale="en" mc="24412" name="DNA Finland Ltd"/>
+    <plmn locale="en" mc="24409" name="DNA Finland Ltd"/>
+    <plmn locale="en" mc="25010" name="Dontelecom"/>
+    <plmn locale="en" mc="52811" name="DST"/>
+    <plmn locale="en" mc="42403" name="Du"/>
+    <plmn locale="en" mc="20420" name="Duchtone (Orange)"/>
+    <plmn locale="en" mc="26203" name="E-plus"/>
+    <plmn locale="en" mc="26205" name="E-plus"/>
+    <plmn locale="en" mc="26277" name="E-plus"/>
+    <plmn locale="en" mc="27603" name="Eagle Mobile"/>
+    <plmn locale="en" mc="310750" name="East Kentucky Network LLC dba Appalachian Wireless"/>
+    <plmn locale="en" mc="311070" name="Easterbrooke Cellular Corp"/>
+    <plmn locale="en" mc="65102" name="Econet"/>
+    <plmn locale="en" mc="64804" name="Econet"/>
+    <plmn locale="en" mc="63905" name="Econet Wireless Kenya Limited"/>
+    <plmn locale="en" mc="27201" name="Eircell (Vodafone)"/>
+    <plmn locale="en" mc="60601" name="El Madar Telephone"/>
+    <plmn locale="en" mc="24401" name="Elisa Corporation-GSM 900/1800 Finland"/>
+    <plmn locale="en" mc="24405" name="Elisa Corporation-GSM 900/1800 Finland"/>
+    <plmn locale="en" mc="24421" name="Elisa Corporation-GSM 900/1800 Finland"/>
+    <plmn locale="en" mc="24802" name="Elisa Esti"/>
+    <plmn locale="en" mc="25017" name="Emark RMS"/>
+    <plmn locale="en" mc="61710" name="Emtel"/>
+    <plmn locale="en" mc="311160" name="Endless Mountains Wireless"/>
+    <plmn locale="en" mc="71021" name="Enitel"/>
+    <plmn locale="en" mc="71073" name="Enitel"/>
+    <plmn locale="en" mc="73602" name="ENTEL Movil"/>
+    <plmn locale="en" mc="73001" name="ENTEL PCS Telecomunicaciones"/>
+    <plmn locale="en" mc="73010" name="Entel Telefonia Movil"/>
+    <plmn locale="en" mc="26002" name="Era (Heyah)"/>
+    <plmn locale="en" mc="21803" name="ERONET"/>
+    <plmn locale="en" mc="27202" name="Esat Digifone (O2)"/>
+    <plmn locale="en" mc="36801" name="ETECSA (C-Com)"/>
+    <plmn locale="en" mc="63601" name="Ethiopian Telecommunications"/>
+    <plmn locale="en" mc="60203" name="Etisalat"/>
+    <plmn locale="en" mc="42402" name="Etisalat"/>
+    <plmn locale="en" mc="41250" name="Etislat"/>
+    <plmn locale="en" mc="45702" name="ETL"/>
+    <plmn locale="en" mc="23102" name="Eurotel Bratislava"/>
+    <plmn locale="en" mc="25904" name="Eventis Mobile S.R.L."/>
+    <plmn locale="en" mc="25028" name="Extel"/>
+    <plmn locale="en" mc="25012" name="Far Eastern Cellular"/>
+    <plmn locale="en" mc="46601" name="Far EasTone Telecommunications"/>
+    <plmn locale="en" mc="311060" name="Farmers Cellular"/>
+    <plmn locale="en" mc="311210" name="Farmers Cellular"/>
+    <plmn locale="en" mc="28801" name="Faroese Telecom"/>
+    <plmn locale="en" mc="41601" name="Fastlink(JMTS Zain)"/>
+    <plmn locale="en" mc="310910" name="First Cellular Illinois"/>
+    <plmn locale="en" mc="23404" name="FMS Solutions Ltd"/>
+    <plmn locale="en" mc="21403" name="France Telecom Espana"/>
+    <plmn locale="en" mc="41501" name="FTML (Alfa)"/>
+    <plmn locale="en" mc="60701" name="Gamcel"/>
+    <plmn locale="en" mc="311370" name="GCI Communications"/>
+    <plmn locale="en" mc="28201" name="Geocell Ltd"/>
+    <plmn locale="en" mc="62701" name="GETESA"/>
+    <plmn locale="en" mc="62002" name="Ghana Telecom Mobile"/>
+    <plmn locale="en" mc="26601" name="Gibtel"/>
+    <plmn locale="en" mc="62150" name="Globacom"/>
+    <plmn locale="en" mc="310970" name="Globalstar (Satellite Service)"/>
+    <plmn locale="en" mc="51502" name="Globe Telecom"/>
+    <plmn locale="en" mc="25505" name="Golden Telecom"/>
+    <plmn locale="en" mc="47001" name="GrameenPhone"/>
+    <plmn locale="en" mc="310470" name="Guam Cell ampersand Paging"/>
+    <plmn locale="en" mc="310140" name="Guam Tele Authority (GTA)"/>
+    <plmn locale="en" mc="23455" name="Guernsey"/>
+    <plmn locale="en" mc="23414" name="Hay Systems Ltd"/>
+    <plmn locale="en" mc="23806" name="Hi3G"/>
+    <plmn locale="en" mc="24002" name="Hi3G"/>
+    <plmn locale="en" mc="311100" name="High Plains Wireless"/>
+    <plmn locale="en" mc="74401" name="Hola Paraguay S.A. (VOX)"/>
+    <plmn locale="en" mc="45400" name="Hong Kong CSL Ltd (Pacific Link)"/>
+    <plmn locale="en" mc="45402" name="Hong Kong CSL Ltd (Pacific Link)"/>
+    <plmn locale="en" mc="45418" name="Hong Kong CSL Ltd (Pacific Link)"/>
+    <plmn locale="en" mc="41308" name="Hutchison"/>
+    <plmn locale="en" mc="50506" name="Hutchison 3G"/>
+    <plmn locale="en" mc="23210" name="Hutchison 3G"/>
+    <plmn locale="en" mc="45403" name="Hutchison 3G"/>
+    <plmn locale="en" mc="27205" name="Hutchison 3G"/>
+    <plmn locale="en" mc="22299" name="Hutchison 3G"/>
+    <plmn locale="en" mc="23420" name="Hutchison 3G UK Ltd"/>
+    <plmn locale="en" mc="51089" name="Hutchison CP Telecommunications"/>
+    <plmn locale="en" mc="45401" name="Hutchison Telephone Co. Ltd (Orange)"/>
+    <plmn locale="en" mc="45404" name="Hutchison Telephone Co. Ltd (Orange)"/>
+    <plmn locale="en" mc="45414" name="Hutchison Telephone Co. Ltd (Orange)"/>
+    <plmn locale="en" mc="45503" name="Hutchison Telephone Macau"/>
+    <plmn locale="en" mc="71201" name="I.C.E. - GSM"/>
+    <plmn locale="en" mc="71202" name="I.C.E. - GSM"/>
+    <plmn locale="en" mc="71209" name="I.C.E. - GSM"/>
+    <plmn locale="en" mc="27401" name="Iceland Telecom Ltd (Landssiminn)"/>
+    <plmn locale="en" mc="311340" name="Illinois Valley Cellular"/>
+    <plmn locale="en" mc="311030" name="Indigo Wireless"/>
+    <plmn locale="en" mc="51021" name="Indosat M3 (merged with Satelindo)"/>
+    <plmn locale="en" mc="20209" name="Info Quest S.A. (Q-TELECOM)"/>
+    <plmn locale="en" mc="310580" name="Inland Cellular"/>
+    <plmn locale="en" mc="23475" name="Inquam Telecom"/>
+    <plmn locale="en" mc="310770" name="Iowa Wireless Services"/>
+    <plmn locale="en" mc="311770" name="Iowa Wireless Services"/>
+    <plmn locale="en" mc="43235" name="Irancell"/>
+    <plmn locale="en" mc="310940" name="Iris Wireless LLC"/>
+    <plmn locale="en" mc="51501" name="Islacom"/>
+    <plmn locale="en" mc="27402" name="Islandssimi (Vodafone)"/>
+    <plmn locale="en" mc="41862" name="Itisaluna"/>
+    <plmn locale="en" mc="44020" name="J-Phone (Vodafone)"/>
+    <plmn locale="en" mc="310650" name="Jasper Wireless Inc"/>
+    <plmn locale="en" mc="43601" name="JC Somoncom"/>
+    <plmn locale="en" mc="23450" name="Jersey Telecom Wave"/>
+    <plmn locale="en" mc="23403" name="Jersey Telenet"/>
+    <plmn locale="en" mc="40102" name="K-Cell"/>
+    <plmn locale="en" mc="28802" name="Kall"/>
+    <plmn locale="en" mc="310690" name="Keystone Wireless / Conestoga"/>
+    <plmn locale="en" mc="43214" name="KFZO (TKC)"/>
+    <plmn locale="en" mc="46688" name="KG Telecom"/>
+    <plmn locale="en" mc="41840" name="KorekTel"/>
+    <plmn locale="en" mc="20620" name="KPN Orange (BASE)"/>
+    <plmn locale="en" mc="20408" name="KPN Telecom"/>
+    <plmn locale="en" mc="25013" name="Kuban-GSM"/>
+    <plmn locale="en" mc="25503" name="Kyivstar"/>
+    <plmn locale="en" mc="24701" name="Latvian Mobile Telephone"/>
+        <plmn locale="en" mc="61601" name="Libercom"/>
+        <plmn locale="en" mc="20404" name="Libertell (Vodafone)"/>
+        <plmn locale="en" mc="62801" name="Libertis"/>
+        <plmn locale="en" mc="62910" name="Libertis Telecom - GSM 900"/>
+        <plmn locale="en" mc="60600" name="Libyana"/>
+        <plmn locale="en" mc="61801" name="Lonestar Communications Corp."/>
+        <plmn locale="en" mc="311090" name="Long Lines Wireless LLC"/>
+        <plmn locale="en" mc="61205" name="Loteny Telecom (MTN)"/>
+        <plmn locale="en" mc="23426" name="Lycamobile Limited"/>
+        <plmn locale="en" mc="64601" name="Madacom (Celtel"/>
+        <plmn locale="en" mc="28202" name="Magti Com"/>
+        <plmn locale="en" mc="61001" name="Malitel"/>
+        <plmn locale="en" mc="45416" name="Mandarin Communications Ltd (Sunday)"/>
+        <plmn locale="en" mc="23458" name="Manx"/>
+        <plmn locale="en" mc="60401" name="Maroc Telecom (Itissalat Al-Maghrib)"/>
+        <plmn locale="en" mc="65201" name="Mascom Wireless (Pty) Ltd."/>
+        <plmn locale="en" mc="60901" name="Mattel"/>
+        <plmn locale="en" mc="60910" name="Mauritel Mobiles"/>
+        <plmn locale="en" mc="23203" name="Max Mobile (T-Mobile)"/>
+        <plmn locale="en" mc="50212" name="Maxis"/>
+        <plmn locale="en" mc="64301" name="mCel (TDM)"/>
+        <plmn locale="en" mc="43211" name="MCI/TCI"/>
+        <plmn locale="en" mc="60400" name="Medi-Telecom"/>
+        <plmn locale="en" mc="25002" name="MegaFon (JSC Sonic Duo)"/>
+        <plmn locale="en" mc="27877" name="Melita Mobile Ltd. (3 G Telecoms Malta)"/>
+        <plmn locale="en" mc="27203" name="Meteor"/>
+        <plmn locale="en" mc="310660" name="Metro PCS"/>
+        <plmn locale="en" mc="310999" name="Metro PCS"/>
+        <plmn locale="en" mc="64002" name="MIC Tanzania Ltd (Mobitel)"/>
+        <plmn locale="en" mc="302370" name="Microcell"/>
+        <plmn locale="en" mc="311000" name="Mid-Tex Cellular"/>
+        <plmn locale="en" mc="45708" name="Milicom (Tango)"/>
+        <plmn locale="en" mc="61902" name="Millicom"/>
+        <plmn locale="en" mc="62003" name="Millicom (Tigo"/>
+        <plmn locale="en" mc="42577" name="Mirs Communications Ltd"/>
+        <plmn locale="en" mc="60202" name="Misfrone (Vodafone Egypt)"/>
+        <plmn locale="en" mc="311020" name="Missouri RSA5 Partnership"/>
+        <plmn locale="en" mc="42899" name="MobiCom Corporation"/>
+        <plmn locale="en" mc="41677" name="Mobil Com(Orange)"/>
+        <plmn locale="en" mc="21303" name="Mobiland (S.T.A.)"/>
+        <plmn locale="en" mc="27821" name="Mobile Communications Ltd (Go mobile)"/>
+        <plmn locale="en" mc="25701" name="Mobile Digital Communications (VELCOM)"/>
+        <plmn locale="en" mc="40177" name="Mobile Telecom Service LLP"/>
+        <plmn locale="en" mc="41902" name="Mobile Telecommunications Co. (MTCNet)"/>
+        <plmn locale="en" mc="25702" name="Mobile Telesystems"/>
+        <plmn locale="en" mc="25001" name="Mobile TeleSysytem (MTS)"/>
+        <plmn locale="en" mc="52503" name="MobileOne"/>
+        <plmn locale="en" mc="41001" name="Mobilink (Pakistan Mobile)"/>
+        <plmn locale="en" mc="35002" name="Mobility"/>
+        <plmn locale="en" mc="29505" name="Mobilkom (Liechtenstein) AG (FL1)"/>
+        <plmn locale="en" mc="23201" name="Mobilkom A1"/>
+        <plmn locale="en" mc="23211" name="Mobilkom A1"/>
+        <plmn locale="en" mc="23209" name="Mobilkom A1"/>
+        <plmn locale="en" mc="21805" name="Mobilna Srpske"/>
+        <plmn locale="en" mc="60201" name="MobilNil"/>
+        <plmn locale="en" mc="28401" name="Mobiltel"/>
+        <plmn locale="en" mc="42003" name="Mobily (Etihad Etisalat Company)"/>
+        <plmn locale="en" mc="20610" name="Mobistar"/>
+        <plmn locale="en" mc="46693" name="Mobitai"/>
+        <plmn locale="en" mc="29341" name="Mobitel"/>
+        <plmn locale="en" mc="41301" name="Mobitel"/>
+        <plmn locale="en" mc="63401" name="Mobitel"/>
+        <plmn locale="en" mc="25902" name="Moldcell"/>
+        <plmn locale="en" mc="21201" name="Monaco Telecom"/>
+        <plmn locale="en" mc="29704" name="MONET"/>
+        <plmn locale="en" mc="33850" name="Mossel (Digicel)"/>
+        <plmn locale="en" mc="33850" name="Mossel Digicel (TCI)"/>
+        <plmn locale="en" mc="25035" name="Motiv"/>
+        <plmn locale="en" mc="732103" name="Movil SA (Tigo)"/>
+        <plmn locale="en" mc="732111" name="Movil SA (Tigo)"/>
+        <plmn locale="en" mc="74000" name="Movistar (Otecel)"/>
+        <plmn locale="en" mc="71606" name="Movistar (Telefonica)"/>
+        <plmn locale="en" mc="33403" name="Movistar Pegaso"/>
+        <plmn locale="en" mc="64901" name="MTC"/>
+        <plmn locale="en" mc="42004" name="MTC Saudi Arabia (Zain SA)"/>
+        <plmn locale="en" mc="41503" name="MTC Touch (LibanCell)"/>
+        <plmn locale="en" mc="42602" name="MTC Vodafone (Bahrain) B.S.C."/>
+        <plmn locale="en" mc="29703" name="MTel"/>
+        <plmn locale="en" mc="65510" name="MTN"/>
+        <plmn locale="en" mc="41702" name="MTN (Spacetel"/>
+        <plmn locale="en" mc="62401" name="MTN Cameroon Ltd"/>
+        <plmn locale="en" mc="63510" name="MTN RwandaCell"/>
+        <plmn locale="en" mc="63402" name="MTN Sudan (Bashair)"/>
+        <plmn locale="en" mc="64110" name="MTN Uganda"/>
+        <plmn locale="en" mc="310570" name="MTPCS LLC (Dobson / Cellular One)"/>
+        <plmn locale="en" mc="42203" name="Nawras"/>
+        <plmn locale="en" mc="42901" name="Nepal Mobile"/>
+        <plmn locale="en" mc="24202" name="Netcom"/>
+        <plmn locale="en" mc="24205" name="Network"/>
+        <plmn locale="en" mc="310600" name="New Cell Inc. dba Cellcom"/>
+        <plmn locale="en" mc="36320" name="New Millenium Telecom Services N.V."/>
+        <plmn locale="en" mc="25016" name="New Telephone Company (NTC)"/>
+        <plmn locale="en" mc="45410" name="New World Pcs"/>
+        <plmn locale="en" mc="62130" name="Nigeria Communications Ltd (MTN)"/>
+        <plmn locale="en" mc="25003" name="Nizhegorodskaya Cellular Communications"/>
+        <plmn locale="en" mc="310017" name="North Sight Communications"/>
+        <plmn locale="en" mc="310670" name="North Star"/>
+        <plmn locale="en" mc="27411" name="Nova"/>
+        <plmn locale="en" mc="44001" name="NTT DoCoMo"/>
+        <plmn locale="en" mc="44010" name="NTT DoCoMo"/>
+        <plmn locale="en" mc="44009" name="NTT DoCoMo"/>
+        <plmn locale="en" mc="74405" name="Nucleo S.A (Personal)"/>
+        <plmn locale="en" mc="73601" name="Nuevatel PCS De Bolivia S.A."/>
+        <plmn locale="en" mc="27406" name="Null niu ehf"/>
+        <plmn locale="en" mc="53024" name="NZ Communications (2degrees)"/>
+        <plmn locale="en" mc="23106" name="O2"/>
+        <plmn locale="en" mc="23002" name="O2 (Eurotel)"/>
+        <plmn locale="en" mc="26207" name="O2 (Viag Interkom)"/>
+        <plmn locale="en" mc="26208" name="O2 (Viag Interkom)"/>
+        <plmn locale="en" mc="26211" name="O2 (Viag Interkom)"/>
+        <plmn locale="en" mc="42202" name="Oman Mobile (OmanTel)"/>
+        <plmn locale="en" mc="24601" name="Omnitel"/>
+        <plmn locale="en" mc="23408" name="OnePhone"/>
+        <plmn locale="en" mc="23416" name="Opal"/>
+        <plmn locale="en" mc="26803" name="Optimus (Sonaecom)"/>
+        <plmn locale="en" mc="50502" name="Optus"/>
+        <plmn locale="en" mc="74201" name="Orange"/>
+        <plmn locale="en" mc="63907" name="Orange"/>
+        <plmn locale="en" mc="64602" name="Orange"/>
+        <plmn locale="en" mc="22803" name="Orange"/>
+        <plmn locale="en" mc="23433" name="Orange"/>
+        <plmn locale="en" mc="23434" name="Orange"/>
+        <plmn locale="en" mc="64700" name="Orange (France Telecom)"/>
+        <plmn locale="en" mc="37001" name="Orange (FTD)"/>
+        <plmn locale="en" mc="26003" name="Orange (IDEA"/>
+        <plmn locale="en" mc="61002" name="Orange (Ikatel)"/>
+        <plmn locale="en" mc="22610" name="Orange (MobilRom)"/>
+        <plmn locale="en" mc="61203" name="Orange (SIM Ivoiris)"/>
+        <plmn locale="en" mc="62402" name="Orange Cameroun S.A."/>
+        <plmn locale="en" mc="34001" name="Orange Caraibe Mobiles"/>
+        <plmn locale="en" mc="20800" name="Orange France"/>
+        <plmn locale="en" mc="20801" name="Orange France"/>
+        <plmn locale="en" mc="20802" name="Orange France"/>
+        <plmn locale="en" mc="23101" name="Orange Slovensko"/>
+        <plmn locale="en" mc="60302" name="Orascom Telecom Algerie Spa (Djezzy)"/>
+        <plmn locale="en" mc="41830" name="Orascom Telecom Iraq Corporation (IRAQNA)"/>
+        <plmn locale="en" mc="60503" name="Orascom Telecom Tunisie"/>
+        <plmn locale="en" mc="34002" name="Outremer Telecom"/>
+        <plmn locale="en" mc="64702" name="Outremer Telecom"/>
+        <plmn locale="en" mc="27001" name="P ampersand T"/>
+        <plmn locale="en" mc="64801" name="P + T Corporation (NET*ONE)"/>
+        <plmn locale="en" mc="26006" name="P4 Sp. z o.o (PLAY)"/>
+        <plmn locale="en" mc="42505" name="Palestine Telecomm Co Ltd (Jawaal)"/>
+        <plmn locale="en" mc="310760" name="Panhandle Telecommunications Systems"/>
+        <plmn locale="en" mc="21601" name="Pannon"/>
+        <plmn locale="en" mc="42501" name="Partner Orange"/>
+        <plmn locale="en" mc="42503" name="Pelephone Communications"/>
+        <plmn locale="en" mc="45412" name="Peoples TC (PCCWHKTC)"/>
+        <plmn locale="en" mc="722340" name="Personal GSM 1900"/>
+        <plmn locale="en" mc="311170" name="PetroCom Maritime (Broadpoint)"/>
+        <plmn locale="en" mc="310100" name="Plateau Wireless (New Mexico RSA4 East)"/>
+        <plmn locale="en" mc="26001" name="Plus (Polkomtel)"/>
+        <plmn locale="en" mc="64903" name="Powercom (Pty) Ltd (Cell One)"/>
+        <plmn locale="en" mc="25092" name="Primtelefone"/>
+        <plmn locale="en" mc="29702" name="Promonte"/>
+        <plmn locale="en" mc="51008" name="PT Natrindo Telepon Seluler (Axis)"/>
+        <plmn locale="en" mc="51010" name="PT Telekomunikasi Selular (Telkomsel)"/>
+        <plmn locale="en" mc="51011" name="PT. Excelcomindo (Excelcom)"/>
+        <plmn locale="en" mc="310110" name="PTI Pacifica"/>
+        <plmn locale="en" mc="42701" name="Q-Tel"/>
+        <plmn locale="en" mc="23412" name="Railtrack"/>
+        <plmn locale="en" mc="22605" name="RCS ampersand RDS DigiMobil"/>
+        <plmn locale="en" mc="40467" name="Reliance Telecom"/>
+        <plmn locale="en" mc="302720" name="Rogers Wireless Inc"/>
+        <plmn locale="en" mc="41220" name="Roshan"/>
+        <plmn locale="en" mc="23422" name="Routo Telecom Ltd."/>
+        <plmn locale="en" mc="63512" name="RwandaTel"/>
+        <plmn locale="en" mc="63902" name="Safaricom"/>
+        <plmn locale="en" mc="63089" name="SAIT Telecom"/>
+        <plmn locale="en" mc="51001" name="Satelindo(PT Indosat)"/>
+        <plmn locale="en" mc="42001" name="Saudi Telecom"/>
+        <plmn locale="en" mc="62001" name="ScanCom Ltd (MTN)"/>
+        <plmn locale="en" mc="310730" name="SeaMobile"/>
+        <plmn locale="en" mc="60802" name="Sentel"/>
+        <plmn locale="en" mc="36301" name="SETAR (Servicio di Telecomunicacion di Aruba)"/>
+        <plmn locale="en" mc="36291" name="Setel NV (UTS Wireless Curacao)"/>
+        <plmn locale="en" mc="20810" name="SFR"/>
+        <plmn locale="en" mc="20811" name="SFR"/>
+        <plmn locale="en" mc="20813" name="SFR"/>
+        <plmn locale="en" mc="64710" name="SFR"/>
+        <plmn locale="en" mc="47003" name="Sheba Telecom (Banglalink)"/>
+        <plmn locale="en" mc="29340" name="Si Mobil"/>
+        <plmn locale="en" mc="25004" name="Sibchallenge"/>
+        <plmn locale="en" mc="25012" name="Sibirtelecom"/>
+        <plmn locale="en" mc="310460" name="SIMMETRY / TMP"/>
+        <plmn locale="en" mc="52501" name="SingTel"/>
+        <plmn locale="en" mc="43701" name="Sky Mobile (Bitel)"/>
+        <plmn locale="en" mc="51503" name="Smart Communications"/>
+        <plmn locale="en" mc="456456" name="Smart mobile (Latelz)"/>
+        <plmn locale="en" mc="45500" name="SmarTone Mobile Communications"/>
+        <plmn locale="en" mc="45406" name="SmarTone Mobile Communications Ltd"/>
+        <plmn locale="en" mc="45415" name="SmarTone Mobile Communications Ltd"/>
+        <plmn locale="en" mc="45417" name="SmarTone Mobile Communications Ltd"/>
+        <plmn locale="en" mc="60801" name="Sonatel (Alize)"/>
+        <plmn locale="en" mc="23802" name="Sonofon"/>
+        <plmn locale="en" mc="45609" name="Sotelco Ltd. (Beeline-KH)"/>
+        <plmn locale="en" mc="316011" name="Southern Communication Services (IDEN)"/>
+        <plmn locale="en" mc="42102" name="Spacetel (MTN)"/>
+        <plmn locale="en" mc="61603" name="Spacetel-Benin (BeninCell)"/>
+        <plmn locale="en" mc="310120" name="Sprint Nextel (CDMA network - formerly Sprint)"/>
+        <plmn locale="en" mc="316010" name="Sprint Nextel (IDEN network - formerly Nextel)"/>
+        <plmn locale="en" mc="311140" name="Sprocket (MBO Wireless)"/>
+        <plmn locale="en" mc="52505" name="StarHub"/>
+        <plmn locale="en" mc="25044" name="StavTeleSot (North-Caucasian GSM)"/>
+        <plmn locale="en" mc="330490" name="Suncom DBA"/>
+        <plmn locale="en" mc="22802" name="Sunrise (Diax)"/>
+        <plmn locale="en" mc="65310" name="Swazi MTN"/>
+        <plmn locale="en" mc="22801" name="Swisscom Mobile"/>
+        <plmn locale="en" mc="41701" name="Syratel"/>
+        <plmn locale="en" mc="21901" name="T-mobile"/>
+        <plmn locale="en" mc="23430" name="T-Mobile"/>
+        <plmn locale="en" mc="20416" name="T-Mobile (Ben)"/>
+        <plmn locale="en" mc="310310" name="T-Mobile (Central Region - Forme Aerial)"/>
+        <plmn locale="en" mc="310026" name="T-Mobile (Cook Inlet)"/>
+        <plmn locale="en" mc="310260" name="T-Mobile (Denver-Colorado)"/>
+        <plmn locale="en" mc="310160" name="T-Mobile (East Region)"/>
+        <plmn locale="en" mc="310270" name="T-Mobile (Formerly Powertel)"/>
+        <plmn locale="en" mc="310490" name="T-Mobile (Formerly SunCom)"/>
+        <plmn locale="en" mc="310250" name="T-Mobile (Honolulu-H)"/>
+        <plmn locale="en" mc="310210" name="T-Mobile (Kansas City)"/>
+        <plmn locale="en" mc="29401" name="T-Mobile (MobiMak)"/>
+        <plmn locale="en" mc="310220" name="T-Mobile (OklahomaCity)"/>
+        <plmn locale="en" mc="310240" name="T-Mobile (Phoenix-Arizona)"/>
+        <plmn locale="en" mc="23001" name="T-Mobile (Radio Mobil)"/>
+        <plmn locale="en" mc="310230" name="T-Mobile (Salt Lake City)"/>
+        <plmn locale="en" mc="310200" name="T-Mobile (Seattle-Washington)"/>
+        <plmn locale="en" mc="23431" name="T-Mobile (Virgin MVNO)"/>
+        <plmn locale="en" mc="23432" name="T-Mobile (Virgin MVNO)"/>
+        <plmn locale="en" mc="21630" name="T-Mobile (Westel)"/>
+        <plmn locale="en" mc="62502" name="T+ Telecom"/>
+        <plmn locale="en" mc="52099" name="TA Orange (True Move Company)"/>
+        <plmn locale="en" mc="46697" name="Taiwan Cellular Corporation (TWNGSM)"/>
+        <plmn locale="en" mc="43232" name="Taliya"/>
+        <plmn locale="en" mc="27077" name="Tango"/>
+        <plmn locale="en" mc="310900" name="Taylor Telecommunications"/>
+        <plmn locale="en" mc="61505" name="Telcel"/>
+        <plmn locale="en" mc="33402" name="Telcel (Radiomovil)"/>
+        <plmn locale="en" mc="73404" name="Telcel C.A. (Movistar)"/>
+        <plmn locale="en" mc="36251" name="Telcell"/>
+        <plmn locale="en" mc="23801" name="Tele Denmark (TDC A/S)"/>
+        <plmn locale="en" mc="29001" name="Tele Greenland A/S"/>
+        <plmn locale="en" mc="23209" name="Tele2"/>
+        <plmn locale="en" mc="21902" name="Tele2"/>
+        <plmn locale="en" mc="23877" name="Tele2"/>
+        <plmn locale="en" mc="20402" name="Tele2"/>
+        <plmn locale="en" mc="24204" name="Tele2"/>
+        <plmn locale="en" mc="24702" name="Tele2 (Baltcom GSM)"/>
+        <plmn locale="en" mc="25020" name="Tele2 (Oblkom)"/>
+        <plmn locale="en" mc="29577" name="Tele2 AG (Tango)"/>
+        <plmn locale="en" mc="24803" name="Tele2 Eesti"/>
+        <plmn locale="en" mc="24603" name="Tele2 UAB"/>
+        <plmn locale="en" mc="61303" name="Telecel"/>
+        <plmn locale="en" mc="64203" name="Telecel"/>
+        <plmn locale="en" mc="62802" name="TELECEL"/>
+        <plmn locale="en" mc="26801" name="Telecel (Vodafone)"/>
+        <plmn locale="en" mc="74404" name="Telecel S.A."/>
+        <plmn locale="en" mc="64502" name="Telecel Zambia Ltd"/>
+        <plmn locale="en" mc="64803" name="Telecel Zimbabwe"/>
+        <plmn locale="en" mc="35001" name="Telecom Bermuda"/>
+        <plmn locale="en" mc="60702" name="Telecom Cellular (Africell)"/>
+        <plmn locale="en" mc="54801" name="Telecom Cook Islands"/>
+        <plmn locale="en" mc="29501" name="Telecom FL (Swisscom)"/>
+        <plmn locale="en" mc="22201" name="Telecom Italia Mobile"/>
+        <plmn locale="en" mc="53000" name="Telecom New Zealand"/>
+        <plmn locale="en" mc="53002" name="Telecom New Zealand"/>
+        <plmn locale="en" mc="53005" name="Telecom New Zealand"/>
+        <plmn locale="en" mc="22003" name="Telecom Serbia"/>
+        <plmn locale="en" mc="63310" name="Telecom Seychelles (Airtel)"/>
+        <plmn locale="en" mc="54101" name="Telecom Vanuatu Ltd (SMILE)"/>
+        <plmn locale="en" mc="73406" name="Telecomunicaciones Movilnet C.A."/>
+        <plmn locale="en" mc="71420" name="Telefonica"/>
+        <plmn locale="en" mc="23402" name="Telefonica (O2)"/>
+        <plmn locale="en" mc="23410" name="Telefonica (O2)"/>
+        <plmn locale="en" mc="23411" name="Telefonica (O2)"/>
+        <plmn locale="en" mc="73630" name="Telefonica Celular De Bolivia S.A."/>
+        <plmn locale="en" mc="70802" name="Telefonica Celular S.A (CELTEL)"/>
+        <plmn locale="en" mc="73002" name="Telefonica Movil de Chile"/>
+        <plmn locale="en" mc="74807" name="Telefonica Moviles"/>
+        <plmn locale="en" mc="21407" name="Telefonica Moviles (Movistar)"/>
+        <plmn locale="en" mc="732123" name="Telefonica Moviles Colombia S.A. (Movistar)"/>
+        <plmn locale="en" mc="70403" name="Telefonica Moviles Guatemala"/>
+        <plmn locale="en" mc="70604" name="Telefonica Moviles"/>
+        <plmn locale="en" mc="72270" name="Telefonica Movistar"/>
+        <plmn locale="en" mc="65001" name="Telekom Network Ltd (TNM)"/>
+        <plmn locale="en" mc="61301" name="Telemob SA (Onatel)"/>
+        <plmn locale="en" mc="70603" name="Telemovil EL Salvador S.A"/>
+        <plmn locale="en" mc="41006" name="Telenor"/>
+        <plmn locale="en" mc="22001" name="Telenor (Mobtel)"/>
+        <plmn locale="en" mc="24008" name="Telenor (Vodafone"/>
+        <plmn locale="en" mc="24201" name="Telenor Mobil"/>
+        <plmn locale="en" mc="41201" name="Telephone Systems International (AWCC)"/>
+        <plmn locale="en" mc="73802" name="TelephoneampersandTelegraph Co."/>
+        <plmn locale="en" mc="23207" name="Telering"/>
+        <plmn locale="en" mc="74602" name="Telesur"/>
+        <plmn locale="en" mc="23419" name="Teleware"/>
+        <plmn locale="en" mc="20412" name="Telfort (O2)"/>
+        <plmn locale="en" mc="24001" name="Telia"/>
+        <plmn locale="en" mc="23820" name="Telia (Orange)"/>
+        <plmn locale="en" mc="24491" name="TeliaSonera"/>
+        <plmn locale="en" mc="64604" name="Telma Mobile"/>
+        <plmn locale="en" mc="28602" name="Telsim (Vodafone)"/>
+        <plmn locale="en" mc="50501" name="Telstra"/>
+        <plmn locale="en" mc="53004" name="Telstra"/>
+        <plmn locale="en" mc="302220" name="Telus"/>
+        <plmn locale="en" mc="302302" name="Telus Mobility"/>
+        <plmn locale="en" mc="302360" name="Telus Mobility"/>
+        <plmn locale="en" mc="302653" name="Telus Mobility"/>
+        <plmn locale="en" mc="62203" name="TIGO - Millicom"/>
+        <plmn locale="en" mc="72402" name="TIM"/>
+        <plmn locale="en" mc="72403" name="TIM"/>
+        <plmn locale="en" mc="72404" name="TIM"/>
+        <plmn locale="en" mc="72408" name="TIM"/>
+        <plmn locale="en" mc="47002" name="TM International (AKTEL)"/>
+        <plmn locale="en" mc="26806" name="TMN"/>
+        <plmn locale="en" mc="72431" name="TNL PCS (Oi)"/>
+        <plmn locale="en" mc="61501" name="Togo Cellulaire"/>
+        <plmn locale="en" mc="52018" name="Total Access Comms Co. (DTAC)"/>
+        <plmn locale="en" mc="46699" name="TransAsia Telecommunications"/>
+        <plmn locale="en" mc="37401" name="TSTT"/>
+        <plmn locale="en" mc="37412" name="TSTT"/>
+        <plmn locale="en" mc="37420" name="TSTT"/>
+        <plmn locale="en" mc="43603" name="TT Mobile (MLT)"/>
+        <plmn locale="en" mc="60502" name="Tunisie Telecom"/>
+        <plmn locale="en" mc="28601" name="Turkcell"/>
+        <plmn locale="en" mc="29370" name="Tusmobile"/>
+        <plmn locale="en" mc="50218" name="U-Mobile"/>
+        <plmn locale="en" mc="41003" name="Ufone (Pak Telecom Mobile)"/>
+        <plmn locale="en" mc="64111" name="Uganda Telecom Ltd (UTL Telecel)"/>
+        <plmn locale="en" mc="23401" name="UK01 - Mapesbury Communications"/>
+        <plmn locale="en" mc="25502" name="Ukrainian Radio Systems"/>
+        <plmn locale="en" mc="25501" name="UMC"/>
+        <plmn locale="en" mc="41603" name="UMC (Umniah)"/>
+        <plmn locale="en" mc="310890" name="Unicel (Rural Cellular Corp)"/>
+        <plmn locale="en" mc="311300" name="Unicel (Rural Cellular Corp)"/>
+        <plmn locale="en" mc="37250" name="Unigestion Holding S.A. (Digicel)"/>
+        <plmn locale="en" mc="310020" name="Union Telephone Company (APC Sprint Spectrum)"/>
+        <plmn locale="en" mc="63102" name="Unitel"/>
+        <plmn locale="en" mc="43404" name="Unitel LLC (Beeline"/>
+        <plmn locale="en" mc="25039" name="Uraltel"/>
+        <plmn locale="en" mc="311580" name="US Cellular"/>
+        <plmn locale="en" mc="43407" name="Uzdunrobita"/>
+        <plmn locale="en" mc="43402" name="Uzmacom"/>
+        <plmn locale="en" mc="310004" name="Verizon Wireless"/>
+        <plmn locale="en" mc="310012" name="Verizon Wireless"/>
+        <plmn locale="en" mc="310590" name="Verizon Wireless (Formerly Alltel)"/>
+        <plmn locale="en" mc="310013" name="Verizon Wireless (Formerly Alltel)"/>
+        <plmn locale="en" mc="310450" name="Viaero Wireless"/>
+        <plmn locale="en" mc="45608" name="Viatel Metfone"/>
+        <plmn locale="en" mc="46689" name="VIBO"/>
+        <plmn locale="en" mc="45201" name="Viet Nam Mobile Service (Mobifone)"/>
+        <plmn locale="en" mc="45202" name="Viet Nam Telecoms Services (Vinaphone)"/>
+        <plmn locale="en" mc="45204" name="Vietel Corporation (Viettel Mobile)"/>
+        <plmn locale="en" mc="54720" name="Vini (Tikiphone)"/>
+        <plmn locale="en" mc="22005" name="VIP"/>
+        <plmn locale="en" mc="21910" name="Vipnet"/>
+        <plmn locale="en" mc="65202" name="Vista Cellular (Orange)"/>
+        <plmn locale="en" mc="41904" name="Viva"/>
+        <plmn locale="en" mc="63405" name="Vivacell"/>
+        <plmn locale="en" mc="28305" name="Vivacell(K Telecom)"/>
+        <plmn locale="en" mc="28406" name="Vivatel"/>
+        <plmn locale="en" mc="72406" name="VIVO"/>
+        <plmn locale="en" mc="72410" name="VIVO"/>
+        <plmn locale="en" mc="72411" name="VIVO"/>
+        <plmn locale="en" mc="72423" name="VIVO"/>
+        <plmn locale="en" mc="64304" name="Vodacom"/>
+        <plmn locale="en" mc="65501" name="Vodacom"/>
+        <plmn locale="en" mc="64004" name="Vodacom"/>
+        <plmn locale="en" mc="65101" name="Vodacom Lesotho"/>
+        <plmn locale="en" mc="27602" name="Vodafone"/>
+        <plmn locale="en" mc="50503" name="Vodafone"/>
+        <plmn locale="en" mc="54201" name="Vodafone"/>
+        <plmn locale="en" mc="21670" name="Vodafone"/>
+        <plmn locale="en" mc="23415" name="Vodafone"/>
+        <plmn locale="en" mc="22601" name="Vodafone (Connex"/>
+        <plmn locale="en" mc="23003" name="Vodafone (Oscar"/>
+        <plmn locale="en" mc="20205" name="Vodafone (Panafone)"/>
+        <plmn locale="en" mc="27801" name="Vodafone Malta"/>
+        <plmn locale="en" mc="53001" name="Vodafone New Zealand Ltd."/>
+        <plmn locale="en" mc="22210" name="Vodafone Omnitel"/>
+        <plmn locale="en" mc="42702" name="Vodafone Qatar Q.S.C."/>
+        <plmn locale="en" mc="27099" name="VOXmobile"/>
+        <plmn locale="en" mc="25901" name="Voxtel"/>
+        <plmn locale="en" mc="47007" name="Warid Telecom"/>
+        <plmn locale="en" mc="41007" name="WARID Telecom"/>
+        <plmn locale="en" mc="41903" name="Wataniya"/>
+        <plmn locale="en" mc="47202" name="Wataniya Telecom"/>
+        <plmn locale="en" mc="60303" name="Wataniya Telecom (Nedjma)"/>
+        <plmn locale="en" mc="310400" name="Wave Runner LLC / ICAN (Guam)"/>
+        <plmn locale="en" mc="310340" name="Westlink Communications"/>
+        <plmn locale="en" mc="311050" name="Wikes Cellular"/>
+        <plmn locale="en" mc="22288" name="WIND"/>
+        <plmn locale="en" mc="20210" name="WIND Hellas(STET"/>
+        <plmn locale="en" mc="365850" name="Wireless Ventures Ltd (Digicel Anguilla)"/>
+        <plmn locale="en" mc="21404" name="Xfera Moviles"/>
+        <plmn locale="en" mc="310950" name="XIT Wireless (Texas RSA1)"/>
+        <plmn locale="en" mc="41602" name="Xpress"/>
+        <plmn locale="en" mc="42101" name="Yemen Mobile (Sabafon)"/>
+        <plmn locale="en" mc="63903" name="Zain (Celtel Kenya)"/>
+        <plmn locale="en" mc="62006" name="Zain Communications Limited"/>
+        <plmn locale="en" mc="62901" name="Zain Congo - GSM 900"/>
+        <plmn locale="en" mc="64503" name="Zamtel (Cell Z)"/>
+        <plmn locale="en" mc="64003" name="Zanzibar Telecom (ZANTEL)"/>
+        <plmn locale="en" mc="25007" name="Zao Smarts"/>
+        <plmn locale="en" mc="41004" name="ZONG (CMPak)"/>
+</plmns>

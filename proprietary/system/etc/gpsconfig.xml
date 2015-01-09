@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glgps xmlns="http://www.glpals.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.glpals.com/ glconfig.xsd" >
+  <!--HAL Confguration  -->
+  <hal 
+       acPortName="tcp:/data/gps/brcm_gps_unix_socket"
+       lBaudRate="115200"
+       cLogEnabled="false"
+       acLogDirectory="/data/gps/log/"
+
+       acNvStoDir="/data/gps/"
+       acNmeaOutName="/data/gps/nmea_out"
+       ctrlPipe="/data/gps/glgpsctrl"
+
+       SyncLto="true"
+       ltoFileName="lto2.dat"
+       acLtoDir="/data/gps/"
+       LbsSyncLtoThresholdDays="1"
+
+       arp-supl-enable="true"
+       arp-supl-cap-msb="true"
+       arp-supl-cap-msa="true"
+       arp-supl-cap-ecid="false"
+       acSuplServer="supl.google.com"
+       SuplPort="7276"
+       tlsEnable="false"
+       tlsCertPath="/data/gps/AGPS.pem"
+       tlsStopForInvPath="true"
+       arp-supl-ssl-method="TLSv1"
+       arp-supl-ssl-verify="peer"
+       SuplVersion="1"
+       SuplMinorVersion="0"
+       arp-supl-use-apn="false"
+       
+       IgnoreJniTime="true"
+
+  />
+
+  <gll 
+       LogPriMask="LOG_DEBUG"
+       LogFacMask="LOG_GLLAPI | LOG_NMEA | LOG_RAWDATA | LOG_GLLIO"
+       FrqPlan="FRQ_PLAN_26MHZ_2PPM"
+       RfType="GL_RF_2076_BRCM_EXT_LNA"
+       DynMode="DYN_AUTOMATIC"
+       ignore_rom_alm="true"
+  />
+
+</glgps>

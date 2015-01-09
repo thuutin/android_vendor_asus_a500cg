@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE root [
+	<!ENTITY mmgr_6360_conf_1 SYSTEM "mmgr_6360_conf_1.xml" >
+        <!ENTITY mmgr_6360_conf_flashless SYSTEM "mmgr_6360_conf_flashless.xml" >
+
+	<!ENTITY mmgr_7160_conf_1 SYSTEM "mmgr_7160_conf_1.xml" >
+	<!ENTITY mmgr_7160_conf_2 SYSTEM "mmgr_7160_conf_2.xml" >
+	<!ENTITY mmgr_7160_conf_3 SYSTEM "mmgr_7160_conf_3.xml" >
+	<!ENTITY mmgr_7160_conf_4 SYSTEM "mmgr_7160_conf_4.xml" >
+	<!ENTITY mmgr_7160_conf_6 SYSTEM "mmgr_7160_conf_6.xml" >
+
+	<!ENTITY mmgr_7260_conf_1 SYSTEM "mmgr_7260_conf_1.xml" >
+	<!ENTITY mmgr_7260_conf_2 SYSTEM "mmgr_7260_conf_2.xml" >
+	<!ENTITY mmgr_7260_conf_4 SYSTEM "mmgr_7260_conf_4.xml" >
+	<!ENTITY mmgr_7260_conf_5 SYSTEM "mmgr_7260_conf_5.xml" >
+]>
+
+<telephony_configs>
+	<config>
+		<config_info
+			name="XMM6360_CONF_1"
+		/>
+		<modem_info
+			name="6360"
+			flashless="false"
+			secured="false"
+			ipc="hsi"
+			ipcLogging="hsi"
+			ipcDump="uart"
+			swRevision="NA"
+			hwRevision="NA"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_6360_conf_1;
+	</config>
+        <config>
+                <config_info
+                        name="XMM6360_CONF_FLASHLESS"
+                />
+                <modem_info
+                        name="6360"
+                        flashless="true"
+                        secured="false"
+                        ipc="hsi"
+                        ipcLogging="hsi"
+                        ipcDump="uart"
+                        swRevision="NA"
+                        hwRevision="NA"
+                />
+                <channels>
+                        <!-- MMGR -->
+                        <mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+                        <shutdown device="![CDATA[/dev/gsmtty11]]"/>
+                        <secured device="![CDATA[/dev/gsmtty22]]"/>
+                        <sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+                        <!-- NVM -->
+                        <nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+                        <!-- RIL -->
+                        <monitoring device="![CDATA[/dev/gsmtty1]]"/>
+                        <registration device="![CDATA[/dev/gsmtty2]]"/>
+                        <settings device="![CDATA[/dev/gsmtty6]]"/>
+                        <sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+                        <field_test device="![CDATA[/dev/gsmtty9]]"/>
+                        <control device="![CDATA[/dev/gsmtty12]]"/>
+                        <packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+                        <packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+                        <packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+                        <packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+                        <packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+                </channels>
+                &mmgr_6360_conf_flashless;
+        </config>
+	<config>
+		<config_info
+			name="XMM7160_CONF_1"
+		/>
+		<modem_info
+			name="7160"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="30"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7160_conf_1;
+	</config>
+	<config>
+		<config_info
+			name="XMM7160_CONF_2"
+		/>
+		<modem_info
+			name="7160"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="35"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7160_conf_2;
+	</config>
+	<config>
+		<config_info
+			name="XMM7160_CONF_3"
+		/>
+		<modem_info
+			name="7160"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="35"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7160_conf_3;
+	</config>
+	<config>
+		<config_info
+			name="XMM7160_CONF_5"
+		/>
+		<modem_info
+			name="7160"
+			flashless="true"
+			secured="false"
+			ipc="hsi"
+			ipcLogging="hsi"
+			ipcDump="uart"
+			swRevision="NA"
+			hwRevision="35"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7160_conf_4;
+	</config>
+	<config>
+		<config_info
+			name="XMM7160_CONF_6"
+		/>
+		<modem_info
+			name="7160"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="35"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7160_conf_6;
+	</config>
+	<config>
+		<config_info
+			name="XMM7260_CONF_1"
+		/>
+		<modem_info
+			name="7260"
+			flashless="true"
+			secured="true"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="10"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7260_conf_1;
+	</config>
+	<config>
+		<config_info
+			name="XMM7260_CONF_2"
+		/>
+		<modem_info
+			name="7260"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="10"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7260_conf_2;
+	</config>
+	<config>
+		<config_info
+			name="XMM7260_CONF_4"
+		/>
+		<modem_info
+			name="7260"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="20"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7260_conf_4;
+	</config>
+	<config>
+		<config_info
+			name="XMM7260_CONF_5"
+		/>
+		<modem_info
+			name="7260"
+			flashless="true"
+			secured="false"
+			ipc="hsic"
+			ipcLogging="hsic"
+			ipcDump="hsic"
+			swRevision="NA"
+			hwRevision="20"
+		/>
+		<channels>
+			<!-- MMGR -->
+			<mdm_custo device="![CDATA[/dev/gsmtty11]]"/>
+			<shutdown device="![CDATA[/dev/gsmtty11]]"/>
+			<secured device="![CDATA[/dev/gsmtty22]]"/>
+			<sanity_check device="![CDATA[/dev/gsmtty15]]"/>
+			<!-- NVM -->
+			<nvm_sync device="![CDATA[/dev/gsmtty18]]"/>
+			<!-- RIL -->
+			<monitoring device="![CDATA[/dev/gsmtty1]]"/>
+			<registration device="![CDATA[/dev/gsmtty2]]"/>
+			<settings device="![CDATA[/dev/gsmtty6]]"/>
+			<sim_toolkit device="![CDATA[/dev/gsmtty8]]"/>
+			<field_test device="![CDATA[/dev/gsmtty9]]"/>
+			<control device="![CDATA[/dev/gsmtty12]]"/>
+			<packet_data_1 device="![CDATA[/dev/gsmtty3]]"/>
+			<packet_data_2 device="![CDATA[/dev/gsmtty4]]"/>
+			<packet_data_3 device="![CDATA[/dev/gsmtty15]]"/>
+			<packet_data_4 device="![CDATA[/dev/gsmtty16]]"/>
+			<packet_data_5 device="![CDATA[/dev/gsmtty17]]"/>
+		</channels>
+		&mmgr_7260_conf_5;
+	</config>
+</telephony_configs>

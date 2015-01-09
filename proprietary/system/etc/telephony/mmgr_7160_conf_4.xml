@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mmgr_config>
+	<modem_link>
+		<flash>
+			<link_hsi device="![CDATA[/dev/ttyIFX0]]"/>
+		</flash>
+		<baseband>
+			<link_hsi device="![CDATA[/dev/ttyIFX0]]"/>
+		</baseband>
+	</modem_link>
+	<mdm_ctrl
+		type="ioctl"
+		ipc_ready_present="true"
+	/>
+	<flashless>
+		<fw_backup
+			nvm_calib="/factory/telephony/calib.nvm"
+		/>
+		<fw_runtime
+			folder="/config/telephony"
+			mdm_fw="/config/telephony/modembinary.fls"
+			mdm_inj_fw="/config/telephony/injected.modembinary.fls"
+			nvm_static="/config/telephony/static.nvm"
+			nvm_dyn="/config/telephony/dynamic.nvm"
+			nvm_calib="/config/telephony/calib.nvm"
+			nvm_tlv="/config/telephony/patch_nvm.tlv"
+			rnd="/config/telephony/rnd_cert.bin"
+		/>
+	</flashless>
+	<modem_comm>
+		<mux
+			frame_size="1509"
+			retry="24"
+		/>
+	</modem_comm>
+	<modem_timings
+		ipc_ready="10"
+		cd_ipc_ready="10"
+	/>
+	<modem_recovery
+		enable="true"
+		cold_reset="5"
+		platform_reboot="1"
+		reset="600"
+		delay_before_reboot="1"
+		cold_reset_timeout="1"
+		shutdown_timeout="1"
+	/>
+	<clients_config max="12"/>
+	<mcdr>
+		<general
+			enable="true"
+			protocol="ymodem"
+			folder="/logs/modemcrash"
+			timeout="600"
+		/>
+		<link>
+			<link_uart device="![CDATA[/dev/ttyMFD1]]" baudrate="3000000"/>
+		</link>
+		<power
+			device="![CDATA[/sys/devices/pci0000:00/0000:00:05.1/power/control]]"
+			on="auto"
+			off="on"
+		/>
+	</mcdr>
+</mmgr_config>
